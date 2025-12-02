@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search Bar_UserInfo-module_downArrowico_eb3f45</name>
+   <tag></tag>
+   <elementGuidId>e4a9659e-59a6-4d35-b0ee-8f3faa594125</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user-info']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.UserInfo-module_downArrowicon__Qs1NR.UserInfo-module_grayDownArrow__NGKaz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Inicia sesión$/ >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffa43189-32bc-4834-89c7-5839eed6a126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>UserInfo-module_downArrowicon__Qs1NR UserInfo-module_grayDownArrow__NGKaz</value>
+      <webElementGuid>f37934f6-8935-47c1-bae9-966c59d86e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-info&quot;)/div[@class=&quot;UserInfo-module_info__name__p9TGV&quot;]/div[@class=&quot;UserInfo-module_flex__X0yNy&quot;]/div[@class=&quot;UserInfo-module_downArrowicon__Qs1NR UserInfo-module_grayDownArrow__NGKaz&quot;]</value>
+      <webElementGuid>db8be31f-6a4b-41bd-bc1b-ebd3fa658d31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user-info']/div/div[2]/div</value>
+      <webElementGuid>b6fbb260-4d4d-4b33-b06d-c8b1fc254834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>1f70f8a3-5293-41da-8c6a-85890350ccc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

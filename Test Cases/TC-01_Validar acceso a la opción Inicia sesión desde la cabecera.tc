@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-01_Validar acceso a la opción Inicia sesión desde la cabecera</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a60a5bae-23cd-409c-89f7-0a241afec523</testCaseGuid>
+</TestCaseEntity>
