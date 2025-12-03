@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-27_validar visualizacion correcta del producto agregado</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ea50fd6-eef6-409d-8d22-4ed82701bad2</testCaseGuid>
+</TestCaseEntity>
