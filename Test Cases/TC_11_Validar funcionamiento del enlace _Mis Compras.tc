@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11_Validar funcionamiento del enlace _Mis Compras</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba91cf17-9e40-4bec-9e4e-887cc574451c</testCaseGuid>
+</TestCaseEntity>
