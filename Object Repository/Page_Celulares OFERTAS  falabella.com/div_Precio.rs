@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Precio</name>
+   <tag></tag>
+   <elementGuidId>9c53f485-61d0-48ec-8712-0726564bfde8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='testId-Accordion-Precio']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#testId-Accordion-Precio > div.jsx-3644469226.container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Precio&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e6fe68f-f3fc-435d-9527-2741b37d6b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-3644469226 container</value>
+      <webElementGuid>1b67e23f-392f-4425-9de3-c26ebf594e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Precio</value>
+      <webElementGuid>1ec80de5-920d-49b4-84fc-4a19633f1be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-Accordion-Precio&quot;)/div[@class=&quot;jsx-3644469226 container&quot;]</value>
+      <webElementGuid>c2876b02-8153-4c97-a531-1d5b74c95d31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='testId-Accordion-Precio']/div</value>
+      <webElementGuid>3c4e82df-725a-407e-ba35-83dc2e150421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calificación del producto'])[1]/following::div[18]</value>
+      <webElementGuid>61aa6a0c-fb61-417f-9204-f6f6f8bba5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repuestos de celulares'])[1]/following::div[20]</value>
+      <webElementGuid>256b7387-f630-4366-a1e1-ce2efe60012c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasta s/ 50'])[1]/preceding::div[2]</value>
+      <webElementGuid>d2524961-bc59-4af5-8ba7-38d67cd958b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button/div</value>
+      <webElementGuid>32151c40-2cec-421d-ba2f-2a0ae8d7d59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Precio' or . = 'Precio')]</value>
+      <webElementGuid>219fba47-4e5c-446c-a537-a02c11957c26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

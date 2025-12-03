@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-16_Validar_filtro_por_precio_rango_minimo_maximo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3e1355d-91ea-41be-8b98-1dd716a5cd14</testCaseGuid>
+</TestCaseEntity>
