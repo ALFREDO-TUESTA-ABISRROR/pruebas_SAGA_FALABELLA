@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05_Validar acceso a la opción regístrate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>690381ab-553c-476e-92f7-e93704c82633</testCaseGuid>
+</TestCaseEntity>
