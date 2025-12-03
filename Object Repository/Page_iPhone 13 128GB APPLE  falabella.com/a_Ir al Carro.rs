@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Agregar al Carro</name>
+   <name>a_Ir al Carro</name>
    <tag></tag>
-   <elementGuidId>655167b9-9837-462a-9710-c4e33a6160b0</elementGuidId>
+   <elementGuidId>38dc1d7d-2fa7-4f83-b22d-3f4111c604ad</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='add-to-cart-button']</value>
+         <value>//a[@id='linkButton']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#add-to-cart-button</value>
+         <value>#linkButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Agregar al Carro&quot;i]</value>
+         <value>internal:role=link[name=&quot;Ir al Carro&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>a042044e-985c-433d-a923-43808a6f2669</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>8b34e5a0-8e00-4641-b66f-7a82da407670</webElementGuid>
+      <value>a</value>
+      <webElementGuid>12e11e93-dfff-4d6c-b137-6c09846de0a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>add-to-cart-button</value>
-      <webElementGuid>2776a18f-51d4-481a-af0b-02c6cd4097bf</webElementGuid>
+      <value>linkButton</value>
+      <webElementGuid>b3d75700-fcf3-4a11-9121-a4ee31921469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.falabella.com.pe/falabella-pe/basket</value>
+      <webElementGuid>236c66c7-9e2f-407c-8f18-08c5e2fedd76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>jsx-1632188836 button button-mkp-primary button-mkp-primary-xtra-large</value>
-      <webElementGuid>bae759b3-9214-49b4-b61b-11c86d031d98</webElementGuid>
+      <value>jsx-2760526313 button button-mkp-secondary button-medium</value>
+      <webElementGuid>96d9b19a-c4fd-4fa2-bb2f-5aa9794bb6a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Agregar al Carro</value>
-      <webElementGuid>9cd74b77-55f2-4ff9-9904-c3509df94c5c</webElementGuid>
+      <value>Ir al Carro</value>
+      <webElementGuid>d37e0e32-bcba-4d68-92a3-6f0b123cfb94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;add-to-cart-button&quot;)</value>
-      <webElementGuid>5bacbfac-1b1f-4741-a2e8-098b48ad88ba</webElementGuid>
+      <value>id(&quot;linkButton&quot;)</value>
+      <webElementGuid>208a0662-e107-4796-ad85-53f3daec4b8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='add-to-cart-button']</value>
-      <webElementGuid>c3a82be1-1c86-4a9b-a212-e846d3befd21</webElementGuid>
+      <value>//a[@id='linkButton']</value>
+      <webElementGuid>9478afa7-797d-4ba4-b041-bf3949de028b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:link</name>
       <type>Main</type>
-      <value>//div[@id='buttonForCustomers']/button</value>
-      <webElementGuid>2d850257-2ea3-4ac8-83e5-907583a20c37</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
-      <webElementGuid>199807e6-9dea-48e0-8dcb-0068b485aa8a</webElementGuid>
+      <value>(//a[contains(text(),'Ir al Carro')])[2]</value>
+      <webElementGuid>990b3507-0917-4f98-8c5f-89976462304b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[1]/following::button[2]</value>
-      <webElementGuid>701efd30-0e04-4a9a-b5de-8d9279327cb5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seguir comprando'])[2]/following::a[1]</value>
+      <webElementGuid>ee30d772-e5da-4a2a-8931-75fe80d8f39d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Agregar al Carro']/parent::*</value>
-      <webElementGuid>2119fd41-9337-4175-98da-4fdad527e209</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Los productos de tu carro de compras pueden agotarse próximamente. Cómpralos pronto.'])[1]/following::a[1]</value>
+      <webElementGuid>06f45fff-6929-4c2d-9e70-fc802a7fa23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.falabella.com.pe/falabella-pe/basket')])[3]</value>
+      <webElementGuid>4efb4dd2-09e3-487f-b966-e5707a0f8fd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[2]/button</value>
-      <webElementGuid>877393be-2e17-4278-a379-ef6fba83eae7</webElementGuid>
+      <value>//div[8]/div/div/div/div/div[3]/div[2]/div/a</value>
+      <webElementGuid>46e60f28-2f1d-4930-ba0a-3fd43efd2dab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'add-to-cart-button' and (text() = 'Agregar al Carro' or . = 'Agregar al Carro')]</value>
-      <webElementGuid>dee74d9b-5a08-420c-94c0-be7b85b5d780</webElementGuid>
+      <value>//a[@id = 'linkButton' and @href = 'https://www.falabella.com.pe/falabella-pe/basket' and (text() = 'Ir al Carro' or . = 'Ir al Carro')]</value>
+      <webElementGuid>99fa83c1-ced6-458b-bab7-67758fc224c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

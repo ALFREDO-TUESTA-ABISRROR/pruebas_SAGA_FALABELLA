@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>123bbd1f-b00a-435e-9065-4610eec244be</webElementGuid>
+      <webElementGuid>57f60d30-cb02-4a4a-add1-5d3e1de3e69d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jsx-691166819 jsx-3390574944 pod-details pod-details-4_GRID has-stickers</value>
-      <webElementGuid>648eb578-a6cf-4477-91ce-6b0624884d56</webElementGuid>
+      <webElementGuid>e0809552-9e02-4320-acd3-39cfe91ad45a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>APPLEIPhone 13 128GBPor Falabella</value>
-      <webElementGuid>b255cd85-3e5c-41e4-82a0-84c326cf11be</webElementGuid>
+      <webElementGuid>68ca1df4-fa58-4fd4-93a3-da36ba50a228</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-pod-18673460&quot;)/div[@class=&quot;jsx-691166819 jsx-3390574944 pod-details pod-details-4_GRID has-stickers&quot;]</value>
-      <webElementGuid>d8896165-81af-49a4-b1d9-14ffc9af1636</webElementGuid>
+      <webElementGuid>f884899a-5dd8-470f-b8b6-912f22e5b193</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='testId-pod-18673460']/div[2]</value>
-      <webElementGuid>a4fcb7e8-19aa-4b0e-b730-cfa6fc7e5dc7</webElementGuid>
+      <webElementGuid>83623145-4f13-4dd1-8866-a5c687244ba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar al Carro'])[2]/following::div[7]</value>
-      <webElementGuid>6eaff843-8f43-40d4-b7cc-143d2e7379f8</webElementGuid>
+      <webElementGuid>a5333288-6275-497a-a038-07dcc0a5fdc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Patrocinado'])[3]/following::div[11]</value>
-      <webElementGuid>68154bdf-5c98-4fcd-8efd-ec6f617492e9</webElementGuid>
+      <webElementGuid>987a6da1-ece0-4ca9-a171-2a1fc98e7e8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a/div[2]</value>
-      <webElementGuid>bb8bd285-6d53-4d9d-9d61-98c896ec1087</webElementGuid>
+      <webElementGuid>d96f9e53-ac0b-4cf4-9ee2-d0b3757c0f4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'APPLEIPhone 13 128GBPor Falabella' or . = 'APPLEIPhone 13 128GBPor Falabella')]</value>
-      <webElementGuid>f8b37d03-62c5-4f42-b66f-99513a5ac417</webElementGuid>
+      <webElementGuid>80932ad2-29a6-475f-9ef9-eace5079e6ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

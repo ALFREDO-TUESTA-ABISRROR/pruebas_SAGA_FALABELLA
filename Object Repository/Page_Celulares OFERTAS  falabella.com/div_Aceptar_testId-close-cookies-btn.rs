@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b74416dd-e76c-45bd-9966-9412e3064606</webElementGuid>
+      <webElementGuid>4635933a-8ca2-441c-9546-26f6853fc340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>testId-close-cookies-btn</value>
-      <webElementGuid>24f11fcc-5fa9-46ad-a6a9-4c450bddc3d3</webElementGuid>
+      <webElementGuid>dde83695-6fbc-43ae-827a-e0f4fca54a48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Footer-module_close-legal-banner__Tuqyl</value>
-      <webElementGuid>de22a55d-116c-4e93-91e2-a391e937d30e</webElementGuid>
+      <webElementGuid>7fd7f71f-7f4a-4e7f-a70b-e058c4b2c9a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-close-cookies-btn&quot;)</value>
-      <webElementGuid>6e1a7f58-73b8-4ccb-931c-7c005f494264</webElementGuid>
+      <webElementGuid>6a7a6e77-2362-4b5c-93fd-bdace42d454a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='testId-close-cookies-btn']</value>
-      <webElementGuid>c7151c69-3369-409d-a0db-93e90106dace</webElementGuid>
+      <webElementGuid>cd7c2283-6e9b-4637-8266-6d7267d9262d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/footer/section[4]/div</value>
-      <webElementGuid>bc28585e-3633-4f68-9f32-3cbf0f84cd3a</webElementGuid>
+      <webElementGuid>4e71a889-4887-4661-bd28-c0054264f266</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[4]/div</value>
-      <webElementGuid>183f7cc6-9694-4ca2-a9b7-f2d7fadd5a38</webElementGuid>
+      <webElementGuid>e2f36ace-d449-4ea7-870c-e93b2a54b6a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'testId-close-cookies-btn']</value>
-      <webElementGuid>dc152b18-7d58-4164-913e-cc176ec8570f</webElementGuid>
+      <webElementGuid>8cbfa438-438e-496a-a74a-8f8b0c648fe3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

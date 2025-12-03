@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>44eb1f20-ccb3-4eed-bf37-540a72083253</webElementGuid>
+      <webElementGuid>a82b521a-60ab-48b6-994a-5f3fd594af2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MarketplaceHamburgerBtn-module_icon__r2oRR </value>
-      <webElementGuid>cc8ac9f8-6b40-4058-9755-2bb9bf0ff7dd</webElementGuid>
+      <webElementGuid>ebec21b5-af79-476d-8cdd-42b8afdd51de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-HamburgerBtn-toggle&quot;)/div[@class=&quot;MarketplaceHamburgerBtn-module_icon__r2oRR&quot;]</value>
-      <webElementGuid>3b6eb28b-2feb-4e31-a0e0-4e5e4340ccdd</webElementGuid>
+      <webElementGuid>4022822a-fab7-4334-8310-605b0168cf6b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
-      <webElementGuid>bb17a3ed-61a8-4bfd-a681-9db8bc8ebf47</webElementGuid>
+      <webElementGuid>08a9a08e-41d3-401b-a446-f9f50d01d938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::div[2]</value>
-      <webElementGuid>035f7d0f-b4f9-49d7-9c18-86306a5d6f88</webElementGuid>
+      <webElementGuid>1ca9e98a-43a8-4b99-b71f-966308fbdef1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/preceding::div[3]</value>
-      <webElementGuid>974cb62a-3f23-4556-b7b5-5157146626fd</webElementGuid>
+      <webElementGuid>2bca6170-1cda-452f-a928-14aee5d83ab2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>d28657b5-8358-4290-992b-b1994029b96e</webElementGuid>
+      <webElementGuid>21e89e7b-3efb-45c5-b6e3-efc997596616</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
