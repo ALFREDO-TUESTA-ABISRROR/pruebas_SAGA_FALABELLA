@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-24_Validar disponibilidad de stock</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04a63fd7-ee7f-47b1-a328-741bc8f8bff9</testCaseGuid>
+</TestCaseEntity>

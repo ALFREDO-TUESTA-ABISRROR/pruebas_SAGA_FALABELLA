@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-25_Validar funcionamiento del boton agregar al carrito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad3f195a-a52a-4a26-aa86-ebfce5fc190d</testCaseGuid>
+</TestCaseEntity>
