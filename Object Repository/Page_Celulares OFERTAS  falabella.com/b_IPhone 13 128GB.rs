@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_IPhone 13 128GB</name>
+   <tag></tag>
+   <elementGuidId>8c392190-1dc5-4793-a0bb-9709a423872d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='testId-pod-displaySubTitle-prod16650024']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#testId-pod-displaySubTitle-prod16650024</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;APPLE - IPhone 13 128GB APPLE IPhone 13 128GB Por Falabella S/ 1,899 -57% S/ 2,099 S/ 4,399 Llega mañana Retira mañana Envío en 180 minutos      (1783) Agregar al Carro&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ce69a099-cdc9-48a3-b58d-c6cf2ea3eb63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>testId-pod-displaySubTitle-prod16650024</value>
+      <webElementGuid>4133bebe-c2f1-4406-b293-3f57e7108cd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-4134261027 copy2 primary  jsx-233704000 normal   line-clamp line-clamp-3      pod-subTitle subTitle-rebrand</value>
+      <webElementGuid>faefefc3-d542-4606-be57-27103906b02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IPhone 13 128GB</value>
+      <webElementGuid>f5fcf57f-4c48-455d-a529-8a7ccb797f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-pod-displaySubTitle-prod16650024&quot;)</value>
+      <webElementGuid>3e715ea1-e005-4867-ad41-0efed4ed2a30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='testId-pod-displaySubTitle-prod16650024']</value>
+      <webElementGuid>82c2cc80-ef44-40ce-a81d-65a8952db2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='testId-pod-18673460']/div[2]/div/b</value>
+      <webElementGuid>8d82f37a-51ac-467c-aff9-b94c323ac7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLE'])[1]/following::b[1]</value>
+      <webElementGuid>e3220984-7539-45c1-87fa-28dbb3b483d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar al Carro'])[2]/following::b[2]</value>
+      <webElementGuid>c0ec84b9-f90c-480f-be28-95559defcf9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por Falabella'])[1]/preceding::b[1]</value>
+      <webElementGuid>ac0e67eb-7f6e-4349-b93d-04eb12d9a377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IPhone 13 128GB']/parent::*</value>
+      <webElementGuid>ece2d3e4-017c-4e10-a4d3-18cf69f2e53d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div[2]/div/b</value>
+      <webElementGuid>0ee377c7-54ef-4810-9688-6d0e0a2175bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'testId-pod-displaySubTitle-prod16650024' and (text() = 'IPhone 13 128GB' or . = 'IPhone 13 128GB')]</value>
+      <webElementGuid>462deadc-8de1-431c-a681-ebb2e391e5f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

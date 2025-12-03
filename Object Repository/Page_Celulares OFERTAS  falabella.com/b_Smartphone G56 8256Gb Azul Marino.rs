@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Smartphone G56 8256Gb Azul Marino</name>
+   <tag></tag>
+   <elementGuidId>d9caf3de-d304-4756-ad06-a4068357b36a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='testId-pod-displaySubTitle-146172448']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#testId-pod-displaySubTitle-146172448</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;MOTOROLA - Smartphone G56 8+256Gb Azul Marino MOTOROLA Smartphone G56 8+256Gb Azul Marino Por Tottus S/ 679 -28% S/ 699 S/ 949 Patrocinado Agregar al Carro&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>85f15b4a-36d8-4d25-a5d1-3652aaccfa4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>testId-pod-displaySubTitle-146172448</value>
+      <webElementGuid>f1d16efb-4d87-4a44-b40c-b8ad203d083f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-4134261027 copy2 primary  jsx-233704000 normal   line-clamp line-clamp-3      pod-subTitle subTitle-rebrand</value>
+      <webElementGuid>cb09211d-3731-495e-8bb8-ce48cfbda7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smartphone G56 8+256Gb Azul Marino</value>
+      <webElementGuid>d783b8a0-3c87-45bd-8f4c-4f36aac367d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-pod-displaySubTitle-146172448&quot;)</value>
+      <webElementGuid>3c18231f-28ff-4802-a55c-6a75438729ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='testId-pod-displaySubTitle-146172448']</value>
+      <webElementGuid>f7ed5e62-b7c1-407c-9980-68f2cc0073d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='testId-pod-146172452']/div[2]/div/b</value>
+      <webElementGuid>b1cf11c1-f3d9-4934-bc1a-70dab3471614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MOTOROLA'])[2]/following::b[1]</value>
+      <webElementGuid>cd6da9a9-901e-4f9d-a711-98ad771d2b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/following::b[2]</value>
+      <webElementGuid>b3ad8dbe-9062-46ec-b5bc-7bbffa5d9559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por Tottus'])[2]/preceding::b[1]</value>
+      <webElementGuid>36e9fb5b-979a-4b62-9284-7dab61444575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Smartphone G56 8+256Gb Azul Marino']/parent::*</value>
+      <webElementGuid>c1961be8-1c0b-44bf-be26-fa6aa91e54fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/b</value>
+      <webElementGuid>130d108d-b380-49b8-a848-6ae099e97b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'testId-pod-displaySubTitle-146172448' and (text() = 'Smartphone G56 8+256Gb Azul Marino' or . = 'Smartphone G56 8+256Gb Azul Marino')]</value>
+      <webElementGuid>db88c1c3-9612-4ff2-a9b2-5270ee163a09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
