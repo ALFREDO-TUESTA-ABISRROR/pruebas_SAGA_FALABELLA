@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tecnologa (2)</name>
+   <tag></tag>
+   <elementGuidId>acd118ee-ae55-4391-810c-3d09d70464c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollable-content']/div/div[2]/div/div/div[2]/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.FirstLevelCategories-module_categories__bZx-r.FirstLevelCategories-module_active__nGbgS > div.FirstLevelCategories-module_categoryTitle__fqIfl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tecnología&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b15a1ff6-5ab3-4cd6-8559-bc0d59c73d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FirstLevelCategories-module_categoryTitle__fqIfl</value>
+      <webElementGuid>39498c25-c0af-427c-8300-f0428a26592c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tecnología</value>
+      <webElementGuid>a52192f6-28f8-4ede-858a-8dc9bddd1ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;TaxonomyDesktop-module_sidebar__1lDbW&quot;]/div[@class=&quot;TaxonomyDesktop-module_scrollWrapper__sZu3u&quot;]/div[@class=&quot;TaxonomyDesktop-module_Box__z3WXc&quot;]/div[@class=&quot;TaxonomyDesktop-module_categoryWrapper__F22OD&quot;]/div[@class=&quot;FirstLevelCategories-module_categories__bZx-r FirstLevelCategories-module_active__nGbgS&quot;]/div[@class=&quot;FirstLevelCategories-module_categoryTitle__fqIfl&quot;]</value>
+      <webElementGuid>75c6ae8c-ff8e-42a4-9515-d0660c975db8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollable-content']/div/div[2]/div/div/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>dfef02a9-fda1-445e-9caa-df28382950cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feliz Navidad !'])[1]/following::div[4]</value>
+      <webElementGuid>c24b55d9-3fa1-4060-9680-aafa71370859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SALE'])[1]/following::div[8]</value>
+      <webElementGuid>cd84c293-8618-4eb6-bc47-de34e0056b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrohogar'])[1]/preceding::div[2]</value>
+      <webElementGuid>e102bbf6-4486-42f5-89f6-e86327ea3ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muebles y Organización'])[1]/preceding::div[6]</value>
+      <webElementGuid>a4422f70-ad13-4fa2-8ef4-a19611385bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tecnología']/parent::*</value>
+      <webElementGuid>f6bd8074-d00f-42cf-94b3-6e648e639120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>a6773216-f39d-4645-91f3-646a3072bbc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tecnología' or . = 'Tecnología')]</value>
+      <webElementGuid>bc5bb829-296a-499f-b92b-9cb3374b31c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
