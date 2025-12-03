@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10_Validar navegación hacia Electrohogar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24b85502-c79b-4888-bca6-78d5b36f81e4</testCaseGuid>
+</TestCaseEntity>
