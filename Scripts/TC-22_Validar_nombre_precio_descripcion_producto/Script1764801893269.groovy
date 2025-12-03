@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.falabella.com.pe/falabella-pe')
+
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/button_No, gracias-025-3fe-642 (13)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/span_Men (12)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Tecnologa (9)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/a_Celulares (14)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Celulares OFERTAS  falabella.com/b_Smartphone G56 8256Gb Azul Marino (1)'))
+
+WebUI.closeBrowser()
+
