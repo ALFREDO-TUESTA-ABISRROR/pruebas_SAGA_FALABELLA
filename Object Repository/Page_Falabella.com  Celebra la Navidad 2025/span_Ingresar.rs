@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Inicia sesin</name>
+   <name>span_Ingresar</name>
    <tag></tag>
-   <elementGuidId>9cbd6333-fddc-4542-8fba-56c9c1e4fdbf</elementGuidId>
+   <elementGuidId>67cbd4e9-2abc-42a9-b0e8-1aa3833352dc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='user-info']/div/div[2]/p</value>
+         <value>//button[@id='testId-cc-login-form-submit']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>p.UserInfo-module_my-account-label__UrVts</value>
+         <value>span.button-module_login-button-text__zCALB</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#user-info >> internal:text=&quot;Inicia sesión&quot;i</value>
+         <value>internal:role=button[name=&quot;Ingresar&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,95 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>aa823ce0-8dc4-4622-84e0-55de8a29dd0e</webElementGuid>
+      <value>span</value>
+      <webElementGuid>85275d9e-977d-4051-bbc7-823a247c9c1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>UserInfo-module_my-account-label__UrVts</value>
-      <webElementGuid>da3c0341-231b-453c-9af2-0f4ec712e799</webElementGuid>
+      <value>button-module_login-button-text__zCALB</value>
+      <webElementGuid>49a45cbb-5c75-47dd-bff9-c5a34b5f792a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Inicia sesión</value>
-      <webElementGuid>6b6e9274-8a0f-4e68-a85a-d2998b08d679</webElementGuid>
+      <value>Ingresar</value>
+      <webElementGuid>4c090627-bc35-47a1-b135-f215fc55ecd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;user-info&quot;)/div[@class=&quot;UserInfo-module_info__name__p9TGV&quot;]/div[@class=&quot;UserInfo-module_flex__X0yNy&quot;]/p[@class=&quot;UserInfo-module_my-account-label__UrVts&quot;]</value>
-      <webElementGuid>a361c7cc-30c3-4f2b-b694-b647b9e0eda6</webElementGuid>
+      <value>id(&quot;testId-cc-login-form-submit&quot;)/span[@class=&quot;button-module_login-button-text__zCALB&quot;]</value>
+      <webElementGuid>4b31f5c4-045c-4ca2-9abd-c319dc17e1b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='user-info']/div/div[2]/p</value>
-      <webElementGuid>5950ac93-e76c-459c-bf42-6a2c02813522</webElementGuid>
+      <value>//button[@id='testId-cc-login-form-submit']/span</value>
+      <webElementGuid>fdcfba7d-640f-4221-a65f-baa04ef29eeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/following::p[2]</value>
-      <webElementGuid>e1349e8e-1347-4ed0-8a5e-e3348ebe7586</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS'])[1]/following::span[1]</value>
+      <webElementGuid>d4fcebb6-32a1-4b62-998e-8db355c60d4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/following::p[2]</value>
-      <webElementGuid>6ed01d77-1fc8-4332-a2e7-8d0e910a2ff9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='correo'])[1]/following::span[1]</value>
+      <webElementGuid>ea057bef-134f-42ae-b70f-39236dc694a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[2]/preceding::p[1]</value>
-      <webElementGuid>14d1f0f3-572a-4114-8bbf-a1a50bf9b64b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf6a4831-9d1b-497b-8171-b6bf16b852da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate'])[1]/preceding::p[1]</value>
-      <webElementGuid>ff5ff2b0-e778-43de-8ae5-c01d08c42935</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Inicia sesión']/parent::*</value>
-      <webElementGuid>f809b3c9-9e5d-4c5e-b316-59661b8dec52</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Ingresar']/parent::*</value>
+      <webElementGuid>d57a4c20-1217-4aa6-be74-1ef718bba985</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/p</value>
-      <webElementGuid>1d628740-378c-448b-bdaf-0cb3fc98fe9b</webElementGuid>
+      <value>//button/span</value>
+      <webElementGuid>99bbc8d7-dfa6-4ba3-ab5e-315de0aefde6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Inicia sesión' or . = 'Inicia sesión')]</value>
-      <webElementGuid>978279be-e764-48d4-96d3-d6fcf3ce9162</webElementGuid>
+      <value>//span[(text() = 'Ingresar' or . = 'Ingresar')]</value>
+      <webElementGuid>ae03080f-c6fe-4b51-8e5e-ae7cce1086e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

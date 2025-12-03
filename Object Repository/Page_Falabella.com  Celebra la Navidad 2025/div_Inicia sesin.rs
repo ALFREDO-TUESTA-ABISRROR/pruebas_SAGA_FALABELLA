@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Inicia sesin</name>
+   <name>div_Inicia sesin</name>
    <tag></tag>
-   <elementGuidId>9cbd6333-fddc-4542-8fba-56c9c1e4fdbf</elementGuidId>
+   <elementGuidId>bfa617ef-bb04-42bf-9094-e7a467fe9b7e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='user-info']/div/div[2]/p</value>
+         <value>//div[@id='user-info']/div/div[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>p.UserInfo-module_my-account-label__UrVts</value>
+         <value>div.UserInfo-module_flex__X0yNy</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#user-info >> internal:text=&quot;Inicia sesión&quot;i</value>
+         <value>div >> internal:has-text=/^Inicia sesión$/</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,16 +28,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>aa823ce0-8dc4-4622-84e0-55de8a29dd0e</webElementGuid>
+      <value>div</value>
+      <webElementGuid>f15d072b-ef97-425a-b6e8-7bb58afbc36f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>UserInfo-module_my-account-label__UrVts</value>
-      <webElementGuid>da3c0341-231b-453c-9af2-0f4ec712e799</webElementGuid>
+      <value>UserInfo-module_flex__X0yNy</value>
+      <webElementGuid>b13ff761-a01d-4900-b3a7-d7d54458921d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,78 +45,70 @@
       <name>text</name>
       <type>Main</type>
       <value>Inicia sesión</value>
-      <webElementGuid>6b6e9274-8a0f-4e68-a85a-d2998b08d679</webElementGuid>
+      <webElementGuid>ffb19022-a2ae-4e65-9cbd-b68e2ce054f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;user-info&quot;)/div[@class=&quot;UserInfo-module_info__name__p9TGV&quot;]/div[@class=&quot;UserInfo-module_flex__X0yNy&quot;]/p[@class=&quot;UserInfo-module_my-account-label__UrVts&quot;]</value>
-      <webElementGuid>a361c7cc-30c3-4f2b-b694-b647b9e0eda6</webElementGuid>
+      <value>id(&quot;user-info&quot;)/div[@class=&quot;UserInfo-module_info__name__p9TGV&quot;]/div[@class=&quot;UserInfo-module_flex__X0yNy&quot;]</value>
+      <webElementGuid>b06bd04a-de54-4ca5-abd8-8b98da532f69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='user-info']/div/div[2]/p</value>
-      <webElementGuid>5950ac93-e76c-459c-bf42-6a2c02813522</webElementGuid>
+      <value>//div[@id='user-info']/div/div[2]</value>
+      <webElementGuid>11a276b5-507e-43be-ac69-bb1859a306c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/following::p[2]</value>
-      <webElementGuid>e1349e8e-1347-4ed0-8a5e-e3348ebe7586</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/following::div[6]</value>
+      <webElementGuid>bf87f9a1-f8ed-4de8-993f-f86d4f81a089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/following::p[2]</value>
-      <webElementGuid>6ed01d77-1fc8-4332-a2e7-8d0e910a2ff9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/following::div[9]</value>
+      <webElementGuid>14e76381-9907-4036-8f89-082bb26647e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[2]/preceding::p[1]</value>
-      <webElementGuid>14d1f0f3-572a-4114-8bbf-a1a50bf9b64b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[2]/preceding::div[2]</value>
+      <webElementGuid>2f0d9fb9-69a3-407b-bf94-fb6834c180bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate'])[1]/preceding::p[1]</value>
-      <webElementGuid>ff5ff2b0-e778-43de-8ae5-c01d08c42935</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Inicia sesión']/parent::*</value>
-      <webElementGuid>f809b3c9-9e5d-4c5e-b316-59661b8dec52</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate'])[1]/preceding::div[2]</value>
+      <webElementGuid>d28c2a3c-244e-4713-acfd-83bc2f6342d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/p</value>
-      <webElementGuid>1d628740-378c-448b-bdaf-0cb3fc98fe9b</webElementGuid>
+      <value>//li/div/div/div/div[2]</value>
+      <webElementGuid>a519a9a2-e69f-4977-ad4e-d4231dcc9203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Inicia sesión' or . = 'Inicia sesión')]</value>
-      <webElementGuid>978279be-e764-48d4-96d3-d6fcf3ce9162</webElementGuid>
+      <value>//div[(text() = 'Inicia sesión' or . = 'Inicia sesión')]</value>
+      <webElementGuid>2798d54f-f10d-4461-889d-6f5d3a3cd05c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
