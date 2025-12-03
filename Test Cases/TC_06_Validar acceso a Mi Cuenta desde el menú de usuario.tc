@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06_Validar acceso a Mi Cuenta desde el menú de usuario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df43ccfa-464a-49cf-b84f-9b5ab9d4378a</testCaseGuid>
+</TestCaseEntity>

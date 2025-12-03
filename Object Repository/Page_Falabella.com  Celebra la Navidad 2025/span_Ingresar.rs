@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>85275d9e-977d-4051-bbc7-823a247c9c1b</webElementGuid>
+      <webElementGuid>6fc86b42-b462-4983-b48c-85c73b0794e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-module_login-button-text__zCALB</value>
-      <webElementGuid>49a45cbb-5c75-47dd-bff9-c5a34b5f792a</webElementGuid>
+      <webElementGuid>318b07f7-f57c-4630-a941-b4532dcdcc98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ingresar</value>
-      <webElementGuid>4c090627-bc35-47a1-b135-f215fc55ecd2</webElementGuid>
+      <webElementGuid>c4c9dd97-ce7a-47d4-9ee7-b3e6aaefbe83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-cc-login-form-submit&quot;)/span[@class=&quot;button-module_login-button-text__zCALB&quot;]</value>
-      <webElementGuid>4b31f5c4-045c-4ca2-9abd-c319dc17e1b2</webElementGuid>
+      <webElementGuid>da5eb83d-d007-4cb0-ae44-48561ee69804</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='testId-cc-login-form-submit']/span</value>
-      <webElementGuid>fdcfba7d-640f-4221-a65f-baa04ef29eeb</webElementGuid>
+      <webElementGuid>ff8137da-0ad4-44cb-b3d7-7206af84b215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS'])[1]/following::span[1]</value>
-      <webElementGuid>d4fcebb6-32a1-4b62-998e-8db355c60d4a</webElementGuid>
+      <webElementGuid>4ec455bf-9856-4140-be60-b98d37863914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='correo'])[1]/following::span[1]</value>
-      <webElementGuid>ea057bef-134f-42ae-b70f-39236dc694a9</webElementGuid>
+      <webElementGuid>07192f00-bcd4-4eee-b07c-3772ad5cebaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate'])[1]/preceding::span[1]</value>
-      <webElementGuid>cf6a4831-9d1b-497b-8171-b6bf16b852da</webElementGuid>
+      <webElementGuid>4f211882-1d48-4f89-a8ea-7bff0ae55fe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ingresar']/parent::*</value>
-      <webElementGuid>d57a4c20-1217-4aa6-be74-1ef718bba985</webElementGuid>
+      <webElementGuid>dab579f6-4513-411d-9ade-d86d2bef6789</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>99bbc8d7-dfa6-4ba3-ab5e-315de0aefde6</webElementGuid>
+      <webElementGuid>c4e817f8-b177-4f1e-9c09-0132f45c9b1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Ingresar' or . = 'Ingresar')]</value>
-      <webElementGuid>ae03080f-c6fe-4b51-8e5e-ae7cce1086e2</webElementGuid>
+      <webElementGuid>8dea849c-e2c4-435d-9434-59675c3e3cae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
