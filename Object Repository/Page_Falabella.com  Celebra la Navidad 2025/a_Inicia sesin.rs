@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1ea1ac55-8170-4968-af4b-c6dce75b1aab</webElementGuid>
+      <webElementGuid>89ce6148-bd63-47e6-b57c-bfb329026ddd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>testId-loggedout-item-0</value>
-      <webElementGuid>77024042-4e42-4baa-bd33-7ef930abb076</webElementGuid>
+      <webElementGuid>f12bc7a2-8b6a-4c9c-9c92-4aa6bb897de9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>UserInfoPopup-module_display1__ekPrs UserInfoPopup-module_options__item--text__KN9CY</value>
-      <webElementGuid>3e25f840-08eb-4d3f-8278-2604a88ed6a0</webElementGuid>
+      <webElementGuid>910ec6b2-94d2-4ef9-8387-469e250a3d00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Inicia sesión</value>
-      <webElementGuid>ba5ccffc-574d-401b-9144-69f7d2989fad</webElementGuid>
+      <webElementGuid>3cefdd00-2c1c-49e7-bf12-5502e980dc31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-loggedout-item-0&quot;)</value>
-      <webElementGuid>907644d1-c179-4a33-a812-ee87291d011f</webElementGuid>
+      <webElementGuid>315e8a2f-34f9-4fca-843f-eba19491ddde</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='testId-loggedout-item-0']</value>
-      <webElementGuid>bc6475ae-5b3e-4f35-9ffa-c95cfd4a26bd</webElementGuid>
+      <webElementGuid>8510d2a3-36b3-440b-bfa6-65da278f0518</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='testId-UserAction-userinfo']/div[2]/ul/li/a</value>
-      <webElementGuid>b6c29e48-59ac-458c-8a9a-003237edea1e</webElementGuid>
+      <webElementGuid>936a01b3-76b9-4bfc-9688-60e6c8730817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Inicia sesión')]</value>
-      <webElementGuid>47196039-9e3a-445e-ad9f-81569e49ed39</webElementGuid>
+      <webElementGuid>352b4c32-4e78-4b89-a556-15d2b840e5a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/following::a[1]</value>
-      <webElementGuid>772fde80-8719-4f56-a335-35369de211e2</webElementGuid>
+      <webElementGuid>e57e74fb-24aa-4a9b-a5bb-95cd50f963cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/following::a[1]</value>
-      <webElementGuid>b96c21f8-baad-40f9-a8b0-67647858fe2e</webElementGuid>
+      <webElementGuid>fde4f058-b194-4ea5-9596-cd3eab5b8b8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate'])[1]/preceding::a[1]</value>
-      <webElementGuid>97ccce4b-c136-444f-91fe-b887b8396830</webElementGuid>
+      <webElementGuid>8362ddc7-c2bc-4ba4-8a49-1850984ed2c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi cuenta'])[1]/preceding::a[2]</value>
-      <webElementGuid>a7dc7063-9a17-436d-a11c-5ff082265154</webElementGuid>
+      <webElementGuid>ed1fa2e7-1c1c-41b6-b1cc-275dec02e147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>4964691d-28e2-4725-bc83-dcf03e8a89f2</webElementGuid>
+      <webElementGuid>fb114bcc-3fb0-449b-ba85-ed20b951181e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'testId-loggedout-item-0' and (text() = 'Inicia sesión' or . = 'Inicia sesión')]</value>
-      <webElementGuid>34c560ab-00e2-417c-80cc-9a8a4b06d14c</webElementGuid>
+      <webElementGuid>e513bfb8-fa6c-4672-ac60-4f07b2216e4c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
