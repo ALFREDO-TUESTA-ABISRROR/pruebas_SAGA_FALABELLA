@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-20_Validar_ordenamiento_por_precio_de_mayor_a_menor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>632aac18-39ea-484c-9e70-6d91bfbbb683</testCaseGuid>
+</TestCaseEntity>
