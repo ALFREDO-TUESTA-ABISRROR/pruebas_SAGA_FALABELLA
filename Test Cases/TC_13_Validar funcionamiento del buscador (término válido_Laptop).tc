@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_13_Validar funcionamiento del buscador (término válido_Laptop)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a98845f0-e3d1-4df2-a64d-b2498b7fc97b</testCaseGuid>
+</TestCaseEntity>
