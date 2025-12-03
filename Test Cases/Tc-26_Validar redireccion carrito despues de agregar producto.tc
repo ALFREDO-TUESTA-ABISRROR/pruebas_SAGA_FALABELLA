@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc-26_Validar redireccion carrito despues de agregar producto</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6f8de2e-4956-4f3b-ac41-10b23094ccda</testCaseGuid>
+</TestCaseEntity>
