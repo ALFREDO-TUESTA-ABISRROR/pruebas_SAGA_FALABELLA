@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Validar mensaje de error al intentar iniciar sesión sin ingresar datos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8eb8773-adae-4ae5-84ce-1d234d4d63e3</testCaseGuid>
+</TestCaseEntity>
