@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-30_Validar seleccion departamneto,provincia y distrito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ccb6631-7914-4166-81a9-5622b774bd81</testCaseGuid>
+</TestCaseEntity>
