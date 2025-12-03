@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Men_MarketplaceHamburgerBtn-module_icon__r2oRR</name>
+   <name>img</name>
    <tag></tag>
-   <elementGuidId>2e1062ba-5a71-4f64-b271-15b33dd98519</elementGuidId>
+   <elementGuidId>19cf2e14-cec8-4fd1-bb0d-72721b7afc0b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
+         <value>//div[@id='slider-faceta']/div[2]/a/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.MarketplaceHamburgerBtn-module_icon__r2oRR</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Menú&quot;i]</value>
+         <value>internal:role=link[name=&quot;APPLE&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,55 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>939ad51b-5961-468f-bc43-f04aed49abf1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>MarketplaceHamburgerBtn-module_icon__r2oRR </value>
-      <webElementGuid>f5ed97ca-2743-498b-8f40-a83b5d114548</webElementGuid>
+      <value>img</value>
+      <webElementGuid>1fdf7ea3-d37b-4f0c-b6ef-e7a936082a76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.falabella.com/falabellaPE/20687075_01/w=500,h=500,fit=pad?v1764043128722</value>
+      <webElementGuid>bdb59788-fa38-4e5e-8120-5f45916d9915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;testId-HamburgerBtn-toggle&quot;)/div[@class=&quot;MarketplaceHamburgerBtn-module_icon__r2oRR&quot;]</value>
-      <webElementGuid>489ead66-9b8b-4819-8f52-2afb63626475</webElementGuid>
+      <value>id(&quot;slider-faceta&quot;)/div[@class=&quot;uxc-huincha-item uxc-huincha-circle-opacity9 uxc-huincha-circle-fondo&quot;]/a[1]/img[1]</value>
+      <webElementGuid>ee3f756c-db28-41b2-ba81-257a5f6566be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
-      <webElementGuid>057f3fb7-e240-4fcb-bec1-470aec51a1f2</webElementGuid>
+      <value>//div[@id='slider-faceta']/div[2]/a/img</value>
+      <webElementGuid>a346f2e1-3fe2-4cd2-bbb1-486b453467ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::div[2]</value>
-      <webElementGuid>1f5633bc-66a3-47b7-9e91-46597dc566ea</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/preceding::div[3]</value>
-      <webElementGuid>afa72d0f-700b-43cb-9347-d1af86400fc5</webElementGuid>
+      <value>//img[contains(@src,'https://media.falabella.com/falabellaPE/20687075_01/w=500,h=500,fit=pad?v1764043128722')]</value>
+      <webElementGuid>be32c61c-df8a-413e-927e-a90b95ff3b46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/div</value>
-      <webElementGuid>128ebe40-fc1e-45dc-8086-03c9e5a4f454</webElementGuid>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>088d1e1c-afeb-4dc6-a49b-f32ee72e691b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.falabella.com/falabellaPE/20687075_01/w=500,h=500,fit=pad?v1764043128722']</value>
+      <webElementGuid>4d0ed343-8284-4e2f-b9b9-e04cbdd32e03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
