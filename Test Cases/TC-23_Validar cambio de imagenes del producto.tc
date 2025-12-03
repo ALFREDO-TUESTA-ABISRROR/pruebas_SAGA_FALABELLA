@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PG</name>
+   <name>TC-23_Validar cambio de imagenes del producto</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>35c483c4-5e02-4fba-8cad-527e28cb30ca</testCaseGuid>
+   <testCaseGuid>3d98e26e-02b9-464b-9d59-612e99d024fe</testCaseGuid>
 </TestCaseEntity>

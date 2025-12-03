@@ -25,5 +25,19 @@ WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Nav
 
 WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Men_MarketplaceHamburgerBtn-module_icon__r2oRR'))
 
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/svg'))
+
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/a_Celulares'))
+
+WebUI.click(findTestObject('Object Repository/Page_Telefona grandes ofertas  falabella.com/img'))
+
+WebUI.click(findTestObject('Object Repository/Page_iPhone   falabella.com/button__testId-ImageGalleryControlButton-right'))
+
+WebUI.click(findTestObject('Object Repository/Page_iPhone   falabella.com/button__testId-ImageGalleryControlButton-right'))
+
+WebUI.click(findTestObject('Object Repository/Page_iPhone   falabella.com/button__testId-ImageGalleryControlButton-right'))
+
+WebUI.click(findTestObject('Object Repository/Page_iPhone   falabella.com/button__testId-ImageGalleryControlButton-right'))
+
 WebUI.closeBrowser()
 
