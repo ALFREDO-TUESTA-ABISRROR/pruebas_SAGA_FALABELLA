@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-18_Validar_por_color_producto_celular</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8fd6d5f-0aab-4a7a-abdb-f7ff8727f723</testCaseGuid>
+</TestCaseEntity>
