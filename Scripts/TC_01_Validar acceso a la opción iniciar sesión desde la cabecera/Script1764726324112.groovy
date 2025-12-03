@@ -21,17 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.falabella.com.pe/falabella-pe')
 
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Search Bar_UserInfo-module_downArrowico_eb3f45'))
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/button_No, gracias-025-0bf-660'))
 
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/a_Inicia sesin'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/input_Correo electrnico_testId-cc-login-for_d0c7d1'), 
-    'juan_perez@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/input_Contrasea_testId-cc-login-form-passwo_119030'), 
-    '+c0sMoOgPhQ=')
-
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/svg_Contrasea_form-field-module_icon__OfORJ'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/p_Inicia sesin'))
 
