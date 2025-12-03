@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bb3b38fb-02d6-4054-8bd8-fb72b09d3f16</webElementGuid>
+      <webElementGuid>eb5049f2-1ee2-4487-bd37-b88f223f616a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>testId-cc-login-form-email-input</value>
-      <webElementGuid>ca33107c-37da-43cd-a0f1-7a2541b0c2ab</webElementGuid>
+      <webElementGuid>551297da-a3ba-4add-9103-b66f42227296</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>aa30634e-658d-4afd-95f6-3a80306b639d</webElementGuid>
+      <webElementGuid>44200f6c-9faf-4964-8c51-dc01547452fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>ff388fb8-ad56-4b25-a721-91865b40c343</webElementGuid>
+      <webElementGuid>645e212f-2eba-4bae-9ffb-997af112558d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Ingresa tu correo electrónico</value>
-      <webElementGuid>248335f3-92c3-46c2-ac78-aea4bffd1e70</webElementGuid>
+      <webElementGuid>ae4f2ccf-810c-42d9-a62e-3b16193399e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>class</name>
       <type>Main</type>
       <value>form-field-module_field-input__2sh6Y</value>
-      <webElementGuid>80ca1236-ffb1-4083-8c21-2cf2e1846bcc</webElementGuid>
+      <webElementGuid>cd6a3471-7f45-4178-a6c8-071c955fc776</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>j</value>
-      <webElementGuid>0394e152-f38a-409f-84fb-89469e2f0b99</webElementGuid>
+      <value>J</value>
+      <webElementGuid>f8cc6603-1796-470c-ba28-fc09dfcc84c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-cc-login-form-email-input&quot;)</value>
-      <webElementGuid>857b8c64-da82-435e-935d-accf7722b3df</webElementGuid>
+      <webElementGuid>f2e26b6a-35d1-423a-9ff0-34e783b786fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='testId-cc-login-form-email-input']</value>
-      <webElementGuid>05921bfe-ecee-48db-bb72-ec18ee906844</webElementGuid>
+      <webElementGuid>e45d12f7-ae47-42c4-a513-e3df9fdf015d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='testId-cc-login-form']/form/div/div/input</value>
-      <webElementGuid>25471652-c05e-4654-bf36-0da38f514315</webElementGuid>
+      <webElementGuid>7dfdb81a-8620-4d0c-93b2-706b6c887fb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/input</value>
-      <webElementGuid>82e3cc88-8ab4-41a5-87a5-ba833928a83e</webElementGuid>
+      <webElementGuid>5e368803-2323-4281-9aa4-e8455ab5c6bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'testId-cc-login-form-email-input' and @name = 'email' and @type = 'email' and @placeholder = 'Ingresa tu correo electrónico']</value>
-      <webElementGuid>dab4abc3-590b-4cbd-897c-33ddbf88a62e</webElementGuid>
+      <webElementGuid>8677728c-da57-4301-943f-3cc020930345</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
