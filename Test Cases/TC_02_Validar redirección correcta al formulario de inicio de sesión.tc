@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Validar redirección correcta al formulario de inicio de sesión</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e5969df-0467-438a-b439-27afccff5ef4</testCaseGuid>
+</TestCaseEntity>
