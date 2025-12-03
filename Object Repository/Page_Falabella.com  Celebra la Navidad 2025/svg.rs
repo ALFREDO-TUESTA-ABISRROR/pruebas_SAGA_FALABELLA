@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>f63d3c9a-7c4f-4d9b-9d3c-f6e4a8c64004</webElementGuid>
+      <webElementGuid>b403860c-259c-499a-85ce-c63192427f5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>width</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>0b602fbb-fdaf-4078-8daf-777c0a0bbf1c</webElementGuid>
+      <webElementGuid>52b97830-0b59-4d32-901f-446f24b833f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>height</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>e6edc2e0-ac2e-4436-9ab6-7ad05843e4d0</webElementGuid>
+      <webElementGuid>45c0ffa4-e563-4042-a9c8-c29f75ab3857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 9 16</value>
-      <webElementGuid>96b5c891-992a-477b-9897-770897452c72</webElementGuid>
+      <webElementGuid>b78d63b6-3572-4de4-81d8-b139d1fcee84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;TaxonomyDesktop-module_sidebar__1lDbW&quot;]/div[@class=&quot;TaxonomyDesktop-module_scrollWrapper__sZu3u&quot;]/div[@class=&quot;TaxonomyDesktop-module_Box__z3WXc&quot;]/div[@class=&quot;TaxonomyDesktop-module_categoryWrapper__F22OD&quot;]/div[@class=&quot;FirstLevelCategories-module_categories__bZx-r FirstLevelCategories-module_active__nGbgS&quot;]/div[@class=&quot;FirstLevelCategories-module_chevronRightIcon__QUrOM&quot;]/svg[1]</value>
-      <webElementGuid>4f3878fc-2a2b-4d87-a32e-a3434cd65f30</webElementGuid>
+      <webElementGuid>c722ba88-e53c-46a6-afc9-571fb6265652</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tecnología'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>7a96fb93-1864-4005-bf40-098244ae6cd4</webElementGuid>
+      <webElementGuid>8a36a0bc-72e1-4c04-9409-68718cee5c08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feliz Navidad !'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>cce2d8ee-0406-4057-8a66-1759b4b15306</webElementGuid>
+      <webElementGuid>fec47541-4f8f-4c23-a665-0f60f33c683f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrohogar'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>c8872135-69b2-4e6f-97ef-5a1f05b61d66</webElementGuid>
+      <webElementGuid>29e813ba-f644-4315-85c1-2e3c86d12b83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Muebles y Organización'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>5ac92782-c835-498d-91ac-8ce5c4d401d0</webElementGuid>
+      <webElementGuid>a090d710-e3bc-412e-b2e7-b1d73f547a1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
