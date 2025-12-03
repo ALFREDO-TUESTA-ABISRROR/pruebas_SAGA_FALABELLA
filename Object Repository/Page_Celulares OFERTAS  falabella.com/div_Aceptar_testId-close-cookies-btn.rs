@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Men_MarketplaceHamburgerBtn-module_icon__r2oRR</name>
+   <name>div_Aceptar_testId-close-cookies-btn</name>
    <tag></tag>
-   <elementGuidId>2e1062ba-5a71-4f64-b271-15b33dd98519</elementGuidId>
+   <elementGuidId>f73f31cb-102d-4e56-afe5-e2edb119a36f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
+         <value>//div[@id='testId-close-cookies-btn']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.MarketplaceHamburgerBtn-module_icon__r2oRR</value>
+         <value>#testId-close-cookies-btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Menú&quot;i]</value>
+         <value>#testId-close-cookies-btn</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,54 +29,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>44eb1f20-ccb3-4eed-bf37-540a72083253</webElementGuid>
+      <webElementGuid>b74416dd-e76c-45bd-9966-9412e3064606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>testId-close-cookies-btn</value>
+      <webElementGuid>24f11fcc-5fa9-46ad-a6a9-4c450bddc3d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MarketplaceHamburgerBtn-module_icon__r2oRR </value>
-      <webElementGuid>cc8ac9f8-6b40-4058-9755-2bb9bf0ff7dd</webElementGuid>
+      <value>Footer-module_close-legal-banner__Tuqyl</value>
+      <webElementGuid>de22a55d-116c-4e93-91e2-a391e937d30e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;testId-HamburgerBtn-toggle&quot;)/div[@class=&quot;MarketplaceHamburgerBtn-module_icon__r2oRR&quot;]</value>
-      <webElementGuid>3b6eb28b-2feb-4e31-a0e0-4e5e4340ccdd</webElementGuid>
+      <value>id(&quot;testId-close-cookies-btn&quot;)</value>
+      <webElementGuid>6e1a7f58-73b8-4ccb-931c-7c005f494264</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='testId-close-cookies-btn']</value>
+      <webElementGuid>c7151c69-3369-409d-a0db-93e90106dace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
-      <webElementGuid>bb17a3ed-61a8-4bfd-a681-9db8bc8ebf47</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::div[2]</value>
-      <webElementGuid>035f7d0f-b4f9-49d7-9c18-86306a5d6f88</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/preceding::div[3]</value>
-      <webElementGuid>974cb62a-3f23-4556-b7b5-5157146626fd</webElementGuid>
+      <value>//div[@id='__next']/footer/section[4]/div</value>
+      <webElementGuid>bc28585e-3633-4f68-9f32-3cbf0f84cd3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/div</value>
-      <webElementGuid>d28657b5-8358-4290-992b-b1994029b96e</webElementGuid>
+      <value>//section[4]/div</value>
+      <webElementGuid>183f7cc6-9694-4ca2-a9b7-f2d7fadd5a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'testId-close-cookies-btn']</value>
+      <webElementGuid>dc152b18-7d58-4164-913e-cc176ec8570f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

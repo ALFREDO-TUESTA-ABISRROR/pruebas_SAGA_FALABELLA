@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_APPLEIphone 15 128GbPor FalabellaS  3,0_3acc1a</name>
+   <tag></tag>
+   <elementGuidId>36212267-d867-4fc7-aa59-ab9962927a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='testId-searchResults-products']/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#testId-searchResults-products div >> internal:has-text=&quot;APPLEIphone 15 128GbPor FalabellaS/ 3,099 -38%S/ 3,199 S/ 4,999 Llega mañanaReti&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d03c746-c309-4ac4-8d61-79750db91b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pod-layout</name>
+      <type>Main</type>
+      <value>4_GRID</value>
+      <webElementGuid>bec39dc5-1d7e-434d-933d-253e569a7eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ssr-pod</value>
+      <webElementGuid>3730b013-e9b5-439b-896c-dc91fe347807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-3752256814 search-results-4-grid grid-pod </value>
+      <webElementGuid>189f07fa-29f7-4e08-9169-ba59b14a10b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPLEIphone 15 128GbPor FalabellaS/  3,099   -38%S/  3,199   S/  4,999   Llega mañanaRetira hoyEnvío en 180 minutos(26)Agregar al Carro</value>
+      <webElementGuid>8d8f429b-523d-488a-8014-f4a3193ed380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-searchResults-products&quot;)/div[@class=&quot;jsx-3752256814 search-results-4-grid grid-pod&quot;]</value>
+      <webElementGuid>d48d0b85-e8a3-4856-b748-250e48f87eba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='testId-searchResults-products']/div[4]</value>
+      <webElementGuid>3032ee23-60a6-46b8-825c-02cabd46b82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar al Carro'])[3]/following::div[1]</value>
+      <webElementGuid>f4a8b0dc-ee6b-4dde-a457-15e358982854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1783)'])[1]/following::div[5]</value>
+      <webElementGuid>fa7f3a05-8b8b-4df4-b727-6ce3196af4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div[4]</value>
+      <webElementGuid>6302febd-5a93-4177-896e-a0ca86cdab99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'APPLEIphone 15 128GbPor FalabellaS/  3,099   -38%S/  3,199   S/  4,999   Llega mañanaRetira hoyEnvío en 180 minutos(26)Agregar al Carro' or . = 'APPLEIphone 15 128GbPor FalabellaS/  3,099   -38%S/  3,199   S/  4,999   Llega mañanaRetira hoyEnvío en 180 minutos(26)Agregar al Carro')]</value>
+      <webElementGuid>9c8cdba3-a8d1-4710-bc1d-f64a4676150a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

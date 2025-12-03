@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a933d384-50a5-4bc8-92f4-c13161383077</webElementGuid>
+      <webElementGuid>2d583b1a-5140-49c6-b037-b99b31fa34a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>airship-btn airship-btn-deny</value>
-      <webElementGuid>dea64bc1-aba5-478d-94b9-4997822f5ae4</webElementGuid>
+      <webElementGuid>cf64c5c8-60a6-4b66-b9c5-c5f3d3fe8473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No, gracias</value>
-      <webElementGuid>a1e2acfc-762e-458c-852d-73bc76e3345e</webElementGuid>
+      <webElementGuid>6af7d3d6-1bd8-4d49-8bb4-68dccd6a3f72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/div[@class=&quot;airship-prompt-container&quot;]/div[@class=&quot;airship-alert airship-position-top&quot;]/div[@class=&quot;airship-alert-buttons&quot;]/button[@class=&quot;airship-btn airship-btn-deny&quot;]</value>
-      <webElementGuid>067d9c52-fa4e-48dd-967c-b54e9d408558</webElementGuid>
+      <webElementGuid>298407b1-321d-4b18-8c44-945465152a19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -114,10 +114,10 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
+      <name>ref_element_is_shadow_root</name>
       <type>Main</type>
-      <value>Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Aceptar_airship-html-prompt-shadow-ad 2025-53c</value>
-      <webElementGuid>e4cbcd23-12b2-4ad3-9ee5-9c00f1cdac89</webElementGuid>
+      <value>true</value>
+      <webElementGuid>d63bab63-8889-440f-a4eb-a7f8c507a191</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -125,7 +125,31 @@
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d63bab63-8889-440f-a4eb-a7f8c507a191</webElementGuid>
+      <webElementGuid>5331c91b-77bb-46fe-97d4-34d5a91596b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7d782cbc-0f9f-4102-956d-f7a37cad88fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Aceptar_airship-html-prompt-shadow-ad 2025-53c</value>
+      <webElementGuid>61f1838d-4f72-4e6b-86cc-6dc537026aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>51f37206-ce9e-4955-b5da-67958432f59d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -133,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No, gracias']/parent::*</value>
-      <webElementGuid>56bfff71-f0d2-4695-9d6f-d82467e6c07a</webElementGuid>
+      <webElementGuid>8c832d67-b50d-4267-b931-a1d0f9661433</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +165,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'No, gracias' or . = 'No, gracias')]</value>
-      <webElementGuid>736818d3-e96e-4bd2-8bd2-a6bbdd1f3625</webElementGuid>
+      <webElementGuid>a2d75438-2d4b-40c9-af65-2e89c1e93663</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
