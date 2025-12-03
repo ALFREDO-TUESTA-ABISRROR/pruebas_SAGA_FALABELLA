@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_Validar mensaje de error al ingresar credenciales inválidas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd73dd28-a456-444c-bfaf-61109cd016e3</testCaseGuid>
+</TestCaseEntity>
