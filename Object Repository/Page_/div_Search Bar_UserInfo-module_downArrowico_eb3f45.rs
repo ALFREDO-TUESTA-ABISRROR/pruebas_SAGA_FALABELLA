@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Search Bar_UserInfo-module_downArrowico_eb3f45</name>
    <tag></tag>
-   <elementGuidId>e4a9659e-59a6-4d35-b0ee-8f3faa594125</elementGuidId>
+   <elementGuidId>c4e3d56c-6f60-4027-984d-5759dd58cc97</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ab792b1c-bb63-4448-83d8-843b1736e9a9</webElementGuid>
+      <webElementGuid>72b05ff4-79a6-4027-a0e4-cbeb0d9814db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>UserInfo-module_downArrowicon__Qs1NR UserInfo-module_grayDownArrow__NGKaz</value>
-      <webElementGuid>6a12f2f4-d805-479c-ab0c-55673f7e8137</webElementGuid>
+      <webElementGuid>68285a8b-dbd9-400d-9022-3c013b301fb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user-info&quot;)/div[@class=&quot;UserInfo-module_info__name__p9TGV&quot;]/div[@class=&quot;UserInfo-module_flex__X0yNy&quot;]/div[@class=&quot;UserInfo-module_downArrowicon__Qs1NR UserInfo-module_grayDownArrow__NGKaz&quot;]</value>
-      <webElementGuid>635ba66b-412e-4b58-b096-900f90b97a3f</webElementGuid>
+      <webElementGuid>795962a8-1293-4e49-8fcb-e2010c3dbf0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='user-info']/div/div[2]/div</value>
-      <webElementGuid>8e42d57d-a032-4387-bb9a-c760b13d172c</webElementGuid>
+      <webElementGuid>ea52f2c5-d122-4814-978f-3327f46efadb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div</value>
-      <webElementGuid>3b65500a-600c-4699-8d6c-ba3733c9e795</webElementGuid>
+      <webElementGuid>5bb2a8d8-9208-497e-b5f7-42da6bbfcfd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
