@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tecnología'])[1]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrohogar'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div:nth-child(3) > .FirstLevelCategories-module_categories__bZx-r > .FirstLevelCategories-module_chevronRightIcon__QUrOM > svg</value>
+         <value>div:nth-child(4) > .FirstLevelCategories-module_categories__bZx-r > .FirstLevelCategories-module_chevronRightIcon__QUrOM > svg</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>3c8c865f-b908-418e-bd3f-7e6f805617ea</webElementGuid>
+      <webElementGuid>09a557a9-4d87-49fa-976b-3d3ed3364d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>width</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>5150fd27-b275-449f-a071-821212b2e7ff</webElementGuid>
+      <webElementGuid>cd1ddc35-0c84-4cca-90b8-82ee431cc818</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>height</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>7a1f6ca9-5934-4e27-9ba6-e2a541590345</webElementGuid>
+      <webElementGuid>297ccc6c-3cb2-45fb-8e94-62f034a2f030</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 9 16</value>
-      <webElementGuid>e69ba5c4-e0f2-4bc4-bbc8-6e517138abbe</webElementGuid>
+      <webElementGuid>6c2fbdab-202a-49af-a050-8aa597c12427</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,10 +61,42 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;TaxonomyDesktop-module_sidebar__1lDbW&quot;]/div[@class=&quot;TaxonomyDesktop-module_scrollWrapper__sZu3u&quot;]/div[@class=&quot;TaxonomyDesktop-module_Box__z3WXc&quot;]/div[@class=&quot;TaxonomyDesktop-module_categoryWrapper__F22OD&quot;]/div[@class=&quot;FirstLevelCategories-module_categories__bZx-r FirstLevelCategories-module_active__nGbgS&quot;]/div[@class=&quot;FirstLevelCategories-module_chevronRightIcon__QUrOM&quot;]/svg[1]</value>
-      <webElementGuid>49f695cb-7795-426c-b113-604bdf1f4f50</webElementGuid>
+      <webElementGuid>11c2660a-800c-4fe2-ae35-62816e54809a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrohogar'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c030536e-4388-46f1-af81-74ef116f0590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tecnología'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>31dc8525-04bb-40a1-9556-c2f5c5163647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muebles y Organización'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>55d39a7b-eb0f-48e6-99e4-ff5d646b7474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dormitorio y Baño'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>1de9faf6-53c9-4b28-b526-4c7d747c40ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>28d5e353-0b19-422e-9a7a-f948e855f31c</webElementGuid>
+      <webElementGuid>dd6d3431-2ad7-4b1f-9ffb-9e096570973b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>airship-html-prompt-shadow</value>
-      <webElementGuid>99d51723-8789-406c-882f-2b9c6a6d76c4</webElementGuid>
+      <webElementGuid>2ed3fbf9-2ccd-4ec6-b585-b2400eb41ad4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;airship-html-prompt-shadow&quot;]</value>
-      <webElementGuid>8889948d-68fb-41dd-9ba4-b3adcfc34328</webElementGuid>
+      <webElementGuid>1c90118e-bc6b-44e4-9946-e449dfa9ad9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]</value>
-      <webElementGuid>7faa88f7-7a41-4683-ac92-7f46103f8e99</webElementGuid>
+      <webElementGuid>04d76641-5862-4643-ab72-20303d5ecd4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
