@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Celulares</name>
+   <name>a_Celulares (2)</name>
    <tag></tag>
-   <elementGuidId>857144b3-ec91-4731-8e56-f77fdaa6b9eb</elementGuidId>
+   <elementGuidId>962b02f4-97b7-4cff-8fdb-53fa6b9bccc4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c17cbb55-f83c-4768-a2b7-6d89c8723d78</webElementGuid>
+      <webElementGuid>957e86d2-4370-4c93-b511-20b85a287ac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer noopener</value>
-      <webElementGuid>3c64933d-b0e8-458a-96d6-3b84f883f6d8</webElementGuid>
+      <webElementGuid>aa3152c2-5aa9-49d3-9fe7-7ad95040c28c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
-      <webElementGuid>681e0543-fe07-459f-8372-2024ab19332c</webElementGuid>
+      <webElementGuid>e8eb80a6-a108-4734-a6b8-33aeee01f122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.falabella.com.pe/falabella-pe/category/cat760706/Celulares-y-Telefonos</value>
-      <webElementGuid>03c10b8c-0d45-4c2c-aa0b-fed1b1cc56e5</webElementGuid>
+      <webElementGuid>cda1e3e0-269c-46fa-a8c3-791dff24b624</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Celulares</value>
-      <webElementGuid>e40f84b7-57e2-482d-aca3-bba35a6f8a19</webElementGuid>
+      <webElementGuid>6a82d42d-0e5d-452a-a183-3015a4559d79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;SecondLevelCategories-module_secondLevelMenuContainer__I3RRy&quot;]/div[@class=&quot;SecondLevelCategories-module_scrollContainer__3kQqe&quot;]/div[@class=&quot;SecondLevelCategories-module_subCategoryContent__c8yUJ&quot;]/div[@class=&quot;SecondLevelCategories-module_secondLevelMenuItemsBox__GUf9F&quot;]/ul[@class=&quot;SecondLevelCategories-module_secondLevelCategory__NVToy&quot;]/li[@class=&quot;SecondLevelCategories-module_thirdLevelCategory__0VfiO&quot;]/a[1]</value>
-      <webElementGuid>49ee0f09-7680-4aef-a7d0-ab1f6c7a8ffe</webElementGuid>
+      <webElementGuid>e5bbee64-8820-4279-889d-80cbc373e615</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='scrollable-content']/div/div[2]/div/div[2]/div/div[2]/div/ul/li[3]/a</value>
-      <webElementGuid>d9dcfb2a-6a32-41f4-9a54-68986930710e</webElementGuid>
+      <webElementGuid>0b6168e5-4126-4607-ab80-d8c8c0bbf7b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Celulares')])[2]</value>
-      <webElementGuid>f3c6628d-afa5-4726-adf5-d98b6df48aab</webElementGuid>
+      <webElementGuid>96343502-cef3-4841-8956-130dc2222729</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver todo'])[2]/following::a[1]</value>
-      <webElementGuid>8cfee091-e846-4d7b-8524-f9826cf7d269</webElementGuid>
+      <webElementGuid>c42c370b-d219-4d1f-a322-76351e3c5a36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Celulares'])[1]/following::a[2]</value>
-      <webElementGuid>a821c125-d3cd-4f24-8647-5e4a36a60934</webElementGuid>
+      <webElementGuid>81d8bfdc-f7fd-4087-98ac-407c808a5ff3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple'])[1]/preceding::a[1]</value>
-      <webElementGuid>dcc4b792-5080-46b4-9a56-7f61227f5624</webElementGuid>
+      <webElementGuid>6c3a4da2-471a-4fd6-844a-d859960116ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung'])[1]/preceding::a[2]</value>
-      <webElementGuid>3d73845f-f22d-43f6-8774-5028ca9bb278</webElementGuid>
+      <webElementGuid>8d468fae-c606-40b2-9187-f0d7d6ad6b56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.falabella.com.pe/falabella-pe/category/cat760706/Celulares-y-Telefonos')]</value>
-      <webElementGuid>817a4afe-2e9b-4ed6-a5b9-7bce9649c657</webElementGuid>
+      <webElementGuid>256736f8-0c61-4fe2-af70-47d383815c76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>94682fe7-d4f6-43d9-b250-fe471d13a543</webElementGuid>
+      <webElementGuid>0e459e3a-7aa7-44ad-9820-7232a98edc7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.falabella.com.pe/falabella-pe/category/cat760706/Celulares-y-Telefonos' and (text() = 'Celulares' or . = 'Celulares')]</value>
-      <webElementGuid>286f0b44-d7f5-42cf-9b74-9adc3578dabd</webElementGuid>
+      <webElementGuid>e35ea99d-7022-47da-b6ca-2a00427c5ca2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

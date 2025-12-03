@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Color</name>
+   <tag></tag>
+   <elementGuidId>20454eac-478b-47e2-b23c-809047b3bb76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='testId-Accordion-Color']/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#testId-Accordion-Color > div.jsx-3644469226.container > div.jsx-3644469226.headingContainer.null > h2.jsx-4289563469.title13.left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Color&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8be2271f-edb8-485c-90d7-02b0fa053030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-4289563469 title13     left</value>
+      <webElementGuid>c1756cae-d1e4-43ca-b97c-87337a3f9582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Color</value>
+      <webElementGuid>0aba621d-8042-4164-b434-7f4533b7aa48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-Accordion-Color&quot;)/div[@class=&quot;jsx-3644469226 container&quot;]/div[@class=&quot;jsx-3644469226 headingContainer null&quot;]/h2[@class=&quot;jsx-4289563469 title13     left&quot;]</value>
+      <webElementGuid>b5a25aa0-bd54-45de-9dbe-82e97faec052</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='testId-Accordion-Color']/div/div/h2</value>
+      <webElementGuid>f2af069a-942c-482d-b456-ce47db7f45c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sodimac'])[1]/following::h2[1]</value>
+      <webElementGuid>382eacd9-02f9-40e1-aee7-6513b3d20eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tottus'])[1]/following::h2[1]</value>
+      <webElementGuid>71712f85-c90d-4807-97e9-3bf0944e7da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='amarillo'])[1]/preceding::h2[1]</value>
+      <webElementGuid>dceade0a-ca89-4f9f-826e-ddc80cc583fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='azul'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e795eb31-a325-4a5b-9fb7-e13f31e1d8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Color']/parent::*</value>
+      <webElementGuid>11184b62-e62b-4a25-8db9-f16261afc7b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/button/div/div/h2</value>
+      <webElementGuid>92eb24f1-1ec9-4e60-88bf-9266d8cfd60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Color' or . = 'Color')]</value>
+      <webElementGuid>56996b4b-972a-4c0b-a23c-5561d1d23ad7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

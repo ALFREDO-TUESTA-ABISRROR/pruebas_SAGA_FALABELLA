@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_negro (1)</name>
+   <tag></tag>
+   <elementGuidId>55b1605c-afd9-46e3-bac2-6ddc0e5321b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='testId-multiSelectForColor-negro']/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jsx-3350276935.jsx-4009666696.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^negro$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0613a9ad-d2cb-40fb-b513-cf75b4b3ca96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-3350276935 jsx-4009666696 title</value>
+      <webElementGuid>b7644a1e-7b22-4beb-a392-fa78dd47d17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>negro</value>
+      <webElementGuid>aac45bc0-6176-4466-9670-be6e494a8488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-multiSelectForColor-negro&quot;)/label[@class=&quot;jsx-3350276935 jsx-4009666696 checkbox&quot;]/div[@class=&quot;jsx-3350276935 jsx-4009666696 title&quot;]</value>
+      <webElementGuid>e7aa1e62-8d8a-46e7-9047-ebc13c6b720c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='testId-multiSelectForColor-negro']/label/div</value>
+      <webElementGuid>950dc35f-55ff-4210-878b-eff7bb829a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='naranjo'])[1]/following::div[1]</value>
+      <webElementGuid>37e8032e-5bac-4f1f-a4da-b1d3f69e0eb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='morado'])[1]/following::div[2]</value>
+      <webElementGuid>4022d259-851b-47db-8cfd-11ccd9887c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='plateado'])[1]/preceding::div[1]</value>
+      <webElementGuid>509385bc-6efc-4ea5-8315-be52c57b4c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/label/div</value>
+      <webElementGuid>9d5fa1ae-6bd2-49a8-83ab-f342344fc053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'negro' or . = 'negro')]</value>
+      <webElementGuid>68f3d50c-8c72-47ec-8f0d-912502887895</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

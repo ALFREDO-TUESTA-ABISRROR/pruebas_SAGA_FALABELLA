@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aceptar_airship-html-prompt-shadow-lla.com-841</name>
+   <tag></tag>
+   <elementGuidId>ee849e10-6b88-47d5-9bfa-fa1b19ec54e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.airship-html-prompt-shadow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Airship ¿Quieres conocer las mejores ofertas? Que nadie te lo cuente. Suscríbete&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b9ff8ce-3653-481d-ab89-8f1854d890eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>airship-html-prompt-shadow</value>
+      <webElementGuid>821ad896-c8fd-4726-9ce5-85acd8275a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;custom_class chakra-ui-light&quot;]/div[@class=&quot;airship-html-prompt-shadow&quot;]</value>
+      <webElementGuid>c3402f1d-54c2-43f1-9ed2-47dc7b7fbdb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>f9bde4fc-137a-491f-ad13-9969427a2eda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
