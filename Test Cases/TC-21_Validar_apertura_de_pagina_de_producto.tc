@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-21_Validar_apertura_de_pagina_de_producto</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20ab3be3-b64a-411c-b046-771177ee097b</testCaseGuid>
+</TestCaseEntity>
