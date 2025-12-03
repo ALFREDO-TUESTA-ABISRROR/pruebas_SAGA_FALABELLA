@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Men_MarketplaceHamburgerBtn-module_icon__r2oRR</name>
+   <name>img</name>
    <tag></tag>
-   <elementGuidId>2e1062ba-5a71-4f64-b271-15b33dd98519</elementGuidId>
+   <elementGuidId>67dd79f2-302b-4ff9-8dcb-1f0c796b040d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
+         <value>//div[@id='asesorOnlineDesktopContainer']/button/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.MarketplaceHamburgerBtn-module_icon__r2oRR</value>
+         <value>#asesorOnlineDesktopContainer > button > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Menú&quot;i]</value>
+         <value>#asesorOnlineDesktopContainer >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,55 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>072a6282-9505-4334-8903-59c81e7d642e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>MarketplaceHamburgerBtn-module_icon__r2oRR </value>
-      <webElementGuid>4287ae1a-211f-4eef-b25a-837f3efc7f82</webElementGuid>
+      <value>img</value>
+      <webElementGuid>d43e50ad-2d29-472d-8b6a-66f70c83059a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.falabella.com/static/RDF/site/category/huincha/Asesor/close.svg</value>
+      <webElementGuid>5daabbee-d03b-4c15-8362-3b37cd3bb18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;testId-HamburgerBtn-toggle&quot;)/div[@class=&quot;MarketplaceHamburgerBtn-module_icon__r2oRR&quot;]</value>
-      <webElementGuid>48bb7ddf-feab-47d1-939a-cc4be7a6789a</webElementGuid>
+      <value>id(&quot;asesorOnlineDesktopContainer&quot;)/button[1]/img[1]</value>
+      <webElementGuid>dd64430b-6db2-4e1e-89bf-cf70995ca3d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
-      <webElementGuid>61d86c34-f835-4bb6-b9c7-1c0e4da84d12</webElementGuid>
+      <value>//div[@id='asesorOnlineDesktopContainer']/button/img</value>
+      <webElementGuid>3777e465-1d19-4d40-96d1-5a3d0bcb0976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::div[2]</value>
-      <webElementGuid>cf701b53-d950-4a80-9c86-1dff3c263051</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/preceding::div[3]</value>
-      <webElementGuid>0adb6fae-6a5c-4425-b51c-e8f2cda33c5c</webElementGuid>
+      <value>//img[contains(@src,'https://www.falabella.com/static/RDF/site/category/huincha/Asesor/close.svg')]</value>
+      <webElementGuid>938c8026-e351-4e8a-9e90-1081d5318741</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/div</value>
-      <webElementGuid>176f86ec-c648-4e79-a92a-25609cbef989</webElementGuid>
+      <value>//div[5]/button/img</value>
+      <webElementGuid>3ee52821-c161-4df3-8b2f-ddcd49f336f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.falabella.com/static/RDF/site/category/huincha/Asesor/close.svg']</value>
+      <webElementGuid>ebe294bc-fde7-4963-9747-d5b17cf198c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

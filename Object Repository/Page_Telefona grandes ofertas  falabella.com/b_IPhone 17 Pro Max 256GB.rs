@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_IPhone 17 Pro Max 256GB</name>
+   <tag></tag>
+   <elementGuidId>228b0a8d-da01-4db6-aa29-fbd534b130cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@id='testId-pod-displaySubTitle-prod18580273']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#testId-pod-displaySubTitle-prod18580273</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;APPLE - IPhone 17 Pro Max 256GB APPLE IPhone 17 Pro Max 256GB Por Falabella S/ 6,199 -6% S/ 6,299 S/ 6,599 Llega mañana Retira hoy Envío en 180 minutos      (2) Agregar al Carro&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>3d89420c-de3c-4fd3-af08-831537812842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>testId-pod-displaySubTitle-prod18580273</value>
+      <webElementGuid>ec95496e-f209-412c-80bc-d9e24d897368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-691166819 copy2 primary  jsx-233704000 normal   line-clamp line-clamp-3      pod-subTitle subTitle-rebrand</value>
+      <webElementGuid>a5bdd708-7b78-40ea-835b-8df65840df05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IPhone 17 Pro Max 256GB</value>
+      <webElementGuid>be81e791-e05f-4b8d-9985-e049b7c5d7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-pod-displaySubTitle-prod18580273&quot;)</value>
+      <webElementGuid>3a86d819-34e0-4229-b609-4a227e8d5fbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b[@id='testId-pod-displaySubTitle-prod18580273']</value>
+      <webElementGuid>3bbc59ce-bf5f-4de7-9a46-6819761e66cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='testId-pod-21283554']/div[2]/div/b</value>
+      <webElementGuid>d2326057-f1ef-45f0-a90a-5147821f0741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLE'])[2]/following::b[1]</value>
+      <webElementGuid>49e04a21-4541-4ea6-b7c3-ecc8f2b0e7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar al Carro'])[2]/following::b[2]</value>
+      <webElementGuid>819a589d-2ab8-42f4-9034-ced690ca4f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por Falabella'])[1]/preceding::b[1]</value>
+      <webElementGuid>3c04b2cf-1dc7-41eb-a9b2-ed3b9eaf988c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IPhone 17 Pro Max 256GB']/parent::*</value>
+      <webElementGuid>f1917e3d-181b-4e21-8aa8-d3c504aa52f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div[2]/div/b</value>
+      <webElementGuid>fd161f95-00ad-443f-aa97-a97b7206d33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[@id = 'testId-pod-displaySubTitle-prod18580273' and (text() = 'IPhone 17 Pro Max 256GB' or . = 'IPhone 17 Pro Max 256GB')]</value>
+      <webElementGuid>53c65167-7b83-4356-8d5c-12baac7ba447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
