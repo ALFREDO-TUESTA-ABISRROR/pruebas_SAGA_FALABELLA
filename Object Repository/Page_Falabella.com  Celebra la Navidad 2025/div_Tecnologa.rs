@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>01fa680c-3b0e-4630-8c3c-505d1129a2a6</webElementGuid>
+      <webElementGuid>2391da6f-6922-49c2-91b4-56b827f0cb2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>FirstLevelCategories-module_categories__bZx-r FirstLevelCategories-module_active__nGbgS</value>
-      <webElementGuid>31a01f93-c81b-47e9-a4e6-dcc99aaedb04</webElementGuid>
+      <webElementGuid>e18c0870-b8c9-484a-a8b0-2177d4ab8a9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tecnología</value>
-      <webElementGuid>212ab604-8399-46b6-8c9b-ed50fe05b0a4</webElementGuid>
+      <webElementGuid>169d8ecc-f7e7-42cc-8cb1-80ecdee089a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;TaxonomyDesktop-module_sidebar__1lDbW&quot;]/div[@class=&quot;TaxonomyDesktop-module_scrollWrapper__sZu3u&quot;]/div[@class=&quot;TaxonomyDesktop-module_Box__z3WXc&quot;]/div[@class=&quot;TaxonomyDesktop-module_categoryWrapper__F22OD&quot;]/div[@class=&quot;FirstLevelCategories-module_categories__bZx-r FirstLevelCategories-module_active__nGbgS&quot;]</value>
-      <webElementGuid>a055f3a8-b03d-4865-a7d2-d58dbaa68dd8</webElementGuid>
+      <webElementGuid>451cc22b-ce4f-430b-b2c6-967fd0c0cd7f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='scrollable-content']/div/div[2]/div/div/div[2]/div/div[3]/div</value>
-      <webElementGuid>60cab191-b90c-4e58-a95b-75ada4c0c027</webElementGuid>
+      <webElementGuid>14857445-723e-4794-b2b5-198ba5d69b71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feliz Navidad !'])[1]/following::div[3]</value>
-      <webElementGuid>6b916c3e-8ac0-47e3-bfd9-1b8fadca3861</webElementGuid>
+      <webElementGuid>1fb94a20-2bca-426b-b24a-d3ea9b82fcc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SALE'])[1]/following::div[7]</value>
-      <webElementGuid>6ed53c0f-bb11-4310-b6e3-b08c66a0afe6</webElementGuid>
+      <webElementGuid>0507cf0c-9515-4333-8bfc-61e932f6aff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrohogar'])[1]/preceding::div[3]</value>
-      <webElementGuid>55a14fde-9e66-46a4-8632-75adb6074433</webElementGuid>
+      <webElementGuid>afeb7768-a43b-4308-8c44-7abbb4f7e594</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div/div[3]/div</value>
-      <webElementGuid>b81649f7-ee00-4b9b-9367-3eeb45b74ec0</webElementGuid>
+      <webElementGuid>2ae5a8fe-5859-4706-a0b7-f12323053b96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Tecnología' or . = 'Tecnología')]</value>
-      <webElementGuid>db62fac4-8186-4c36-81d9-42aaafad44e7</webElementGuid>
+      <webElementGuid>5e9c3d73-1313-444c-915e-125b9f0fc703</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

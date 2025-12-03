@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-15_Validar_filtro_por_marca_Samsung</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a15c97f3-51d6-4b4e-a748-2f2174bd5e6c</testCaseGuid>
+</TestCaseEntity>
