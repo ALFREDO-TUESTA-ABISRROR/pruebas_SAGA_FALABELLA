@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='testId-search-wrapper']/div[2]/button/img</value>
+         <value>//div[@id='testId-search-wrapper']/div/button/img</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Search Bar laptop en Laptops en Computación gamer en Parlantes Bluetooth laptops laptop gamer laptop lenovo laptop hp laptop asus laptop i7 laptop acer laptops gamer laptop apple Marcas relacionadas LENOVO ASUS HP APPLE SAMSUNG ACER LG XIAOMI MOTOROLA DELL Categorías relacionadas Laptops Computación gamer Parlantes Bluetooth Accesorios Computación Accesorios Celulares Accesorios Accesorios Almacenamiento Audífonos Accesorios audio&quot;i] >> internal:role=button</value>
+         <value>internal:role=button[name=&quot;Search Bar&quot;i] >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>95dcce0d-6083-4e79-ab04-4b0cc76437ff</webElementGuid>
+      <webElementGuid>2073ce2e-1045-434b-9630-6f123542212e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>SearchBar-module_searchIcon__-gxub</value>
-      <webElementGuid>4a10d3f6-7c06-4f4d-9005-16b5595ece21</webElementGuid>
+      <webElementGuid>fe8e0ac5-42bf-4bdc-9463-35da5c815c55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,23 @@
       <name>src</name>
       <type>Main</type>
       <value>https://images.falabella.com/v3/assets/bltf4ed0b9a176c126e/blt60499304f5cc381c/6213f2df23d8fd714a7a43be/hr-3-search-desktop.svg</value>
-      <webElementGuid>71b39802-cd2d-4a1a-8183-0d4e900ada34</webElementGuid>
+      <webElementGuid>19af77e5-3ce1-459f-8ef2-98561ae543b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;testId-search-wrapper&quot;)/div[@class=&quot;SearchBar-module_searchBarWrapper__NPHoF&quot;]/button[@class=&quot;SearchBar-module_searchBtnIcon__YqTAF SearchBar-module_showFlatEdges__rvQ-3 SearchBar-module_overlap__5JWUe&quot;]/img[@class=&quot;SearchBar-module_searchIcon__-gxub&quot;]</value>
-      <webElementGuid>2f364a06-e748-4bed-9ef0-ec0041b345bb</webElementGuid>
+      <value>id(&quot;testId-search-wrapper&quot;)/div[@class=&quot;SearchBar-module_searchBarWrapper__NPHoF&quot;]/button[@class=&quot;SearchBar-module_searchBtnIcon__YqTAF&quot;]/img[@class=&quot;SearchBar-module_searchIcon__-gxub&quot;]</value>
+      <webElementGuid>8bd386d9-63c0-4f0d-83e0-ee649802243e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='testId-search-wrapper']/div[2]/button/img</value>
-      <webElementGuid>f4dcaa3c-4484-458d-bbf3-0ba1a6cca963</webElementGuid>
+      <value>//div[@id='testId-search-wrapper']/div/button/img</value>
+      <webElementGuid>ae50a619-f80b-499a-94db-1a44ee5b93d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://images.falabella.com/v3/assets/bltf4ed0b9a176c126e/blt60499304f5cc381c/6213f2df23d8fd714a7a43be/hr-3-search-desktop.svg')]</value>
-      <webElementGuid>57473057-1ecd-4fe3-8cf1-b2385ae6c283</webElementGuid>
+      <webElementGuid>43031217-5950-4591-b3d3-f9c6b36fcd49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/img</value>
-      <webElementGuid>28a84821-7c42-4e1e-bcba-6221d1aef307</webElementGuid>
+      <webElementGuid>5cdcb3ed-7067-440f-98e9-d5c5afd6dca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://images.falabella.com/v3/assets/bltf4ed0b9a176c126e/blt60499304f5cc381c/6213f2df23d8fd714a7a43be/hr-3-search-desktop.svg']</value>
-      <webElementGuid>a399da77-81ea-4106-b6f4-d4dddac9c6df</webElementGuid>
+      <webElementGuid>0e94cb05-c5be-425c-b610-705da4678503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='testId-search-wrapper']/div[2]/button/img</value>
+      <webElementGuid>f4dcaa3c-4484-458d-bbf3-0ba1a6cca963</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
