@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[4]</value>
+         <value>//div[6]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>52425ab4-6ea0-4c6a-a60f-52d712c6c8d3</webElementGuid>
+      <webElementGuid>a6050ed4-191e-4616-85bf-e56615f53bb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>airship-html-prompt-shadow</value>
-      <webElementGuid>83234bea-2f33-4e34-889d-c0f5afb9a52f</webElementGuid>
+      <webElementGuid>6212dc9b-d305-48c7-9104-2b846918eab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,10 +45,18 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;airship-html-prompt-shadow&quot;]</value>
-      <webElementGuid>cb1c0c74-8f28-4810-8fc0-447d7a94056f</webElementGuid>
+      <webElementGuid>3f3b0ac1-f2d6-4a23-91ad-eace90197275</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>641c6ac5-ec3c-4989-bd28-e428a254dc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
@@ -62,13 +70,5 @@
       <type>Main</type>
       <value>//div[5]</value>
       <webElementGuid>c013201b-51de-4fd1-a211-ff74133a24c7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[6]</value>
-      <webElementGuid>04d76641-5862-4643-ab72-20303d5ecd4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
