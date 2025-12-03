@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_Validar navegación hacia subcategoría Celulares y Teléfonos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebc6fdba-c696-4718-8e47-62fda3b6aa34</testCaseGuid>
+</TestCaseEntity>
