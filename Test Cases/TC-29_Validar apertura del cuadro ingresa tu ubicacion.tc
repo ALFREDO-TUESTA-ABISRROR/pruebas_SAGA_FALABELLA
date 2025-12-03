@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-29_Validar apertura del cuadro ingresa tu ubicacion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01a5e1e7-83c0-4364-b8f0-cfb7d017e77b</testCaseGuid>
+</TestCaseEntity>
