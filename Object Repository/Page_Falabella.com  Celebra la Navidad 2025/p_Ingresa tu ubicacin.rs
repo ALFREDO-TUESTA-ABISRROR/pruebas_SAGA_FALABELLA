@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c1197c94-c3b7-4f9c-a141-1d309168c4dc</webElementGuid>
+      <webElementGuid>9b650ef6-db7d-4aca-a9e1-3fdefcff13b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Zone-module_zone-lable__sQwnH Zone-module_bold__3ZZTO Zone-module_marketplace__3CV06</value>
-      <webElementGuid>8c0b9151-1427-4857-a6c3-05675161edb8</webElementGuid>
+      <webElementGuid>36f86de4-fe21-4b7a-8b54-5e218dfad49a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ingresa tu ubicación</value>
-      <webElementGuid>30a202ed-39ba-45ef-a3b0-0501ad4836af</webElementGuid>
+      <webElementGuid>f8fe5fc4-9a13-4e1b-8edb-17d4b7f2ff22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;geofinder-button-open&quot;)/div[@class=&quot;Zone-module_zone-select-wrapper__Ohdp9  Zone-module_zone-select-wrapper-sis-level-header__ltvVm&quot;]/p[@class=&quot;Zone-module_zone-lable__sQwnH Zone-module_bold__3ZZTO Zone-module_marketplace__3CV06&quot;]</value>
-      <webElementGuid>9c1e84c0-d7d2-4080-9ee6-de88aab901c1</webElementGuid>
+      <webElementGuid>3546b38f-1c26-48be-b434-3132463a9969</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='geofinder-button-open']/div/p</value>
-      <webElementGuid>81ec28a4-0cc5-4cf0-94e7-5dd435d76ce7</webElementGuid>
+      <webElementGuid>7aff375b-48b7-4403-873e-c70fe3c96ccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='location-icon'])[1]/following::p[1]</value>
-      <webElementGuid>b56bca0e-af7f-478f-9d9e-27bef3fa2516</webElementGuid>
+      <webElementGuid>e107b786-1302-4ff9-b830-245377b5a887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='compras'])[1]/following::p[1]</value>
-      <webElementGuid>839ffe76-0068-406d-ae78-ce21e85a0bdb</webElementGuid>
+      <webElementGuid>b0ce0b04-4a78-4171-8605-b1194f0629ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarjeta CMR'])[1]/preceding::p[1]</value>
-      <webElementGuid>5fb5f09b-1108-49e8-a39d-adcc7801cd50</webElementGuid>
+      <webElementGuid>30356674-6126-4eed-adae-da4679f59f9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vende y comisiona'])[1]/preceding::p[1]</value>
-      <webElementGuid>40240e9f-92f2-4f1d-8bf6-dd5bafde803d</webElementGuid>
+      <webElementGuid>a462c00c-195c-4a1c-845b-0eeedcb4e94a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ingresa tu ubicación']/parent::*</value>
-      <webElementGuid>fea29da0-92f9-4636-8949-e09555275788</webElementGuid>
+      <webElementGuid>55747e19-d71c-41c4-a2ad-a3517d048d42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/p</value>
-      <webElementGuid>47aa5ee3-d65e-4838-8a0d-fb049c46e194</webElementGuid>
+      <webElementGuid>9439e963-5c35-4dfd-81b1-c7e953365491</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Ingresa tu ubicación' or . = 'Ingresa tu ubicación')]</value>
-      <webElementGuid>6b71eeec-a1df-4ef0-93cf-f2a69176a89c</webElementGuid>
+      <webElementGuid>4f695c20-aeef-439a-be2a-472d2ec353c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

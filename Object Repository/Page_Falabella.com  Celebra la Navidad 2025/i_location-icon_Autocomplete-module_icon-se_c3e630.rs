@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_location-icon_Autocomplete-module_icon-se_c3e630</name>
+   <tag></tag>
+   <elementGuidId>0e600620-75d2-4569-8204-eacc400bad22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zone_modal_wrap']/div/div/div/div[2]/div/div/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.Autocomplete-module_icon-search__TOIWL</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#zone_modal_wrap i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>30db5bce-d5f0-4bd3-88a4-27015bc30c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Autocomplete-module_icon-search__TOIWL</value>
+      <webElementGuid>a9011104-5da0-4d0e-b274-1e48d58d09a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zone_modal_wrap&quot;)/div[@class=&quot;Modal-module_modal__DYZcT Modal-module_withPadding__Z4tUk&quot;]/div[@class=&quot;Modal-module_modal-body__hw6EB Modal-module_withPadding__Z4tUk Modal-module_zone-modal-body-marketplace__DsioF&quot;]/div[@class=&quot;Zone-module_zone-modal-body__pbxYA Zone-module_marketplace__3CV06&quot;]/div[@class=&quot;Zone-module_modal-content__J2cnF&quot;]/div[@class=&quot;Zone-module_input-wrapper__okYOT&quot;]/div[1]/div[@class=&quot;Autocomplete-module_autocomplete-input-wrapper__tHpkD&quot;]/span[@class=&quot;Autocomplete-module_floating-icon__6v-R0&quot;]/i[@class=&quot;Autocomplete-module_icon-search__TOIWL&quot;]</value>
+      <webElementGuid>c26d5b80-07f8-45db-9591-953b40ade52b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zone_modal_wrap']/div/div/div/div[2]/div/div/div/span/i</value>
+      <webElementGuid>b50018ca-53e5-451e-bc6b-211a3ed07031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>fd755a5f-99df-4951-b41a-7e5ef5786580</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

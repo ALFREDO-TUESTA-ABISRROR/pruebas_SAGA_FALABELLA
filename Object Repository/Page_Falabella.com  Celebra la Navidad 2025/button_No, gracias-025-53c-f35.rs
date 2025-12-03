@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6d7b8d18-0cfa-40ab-bc58-94c19e055bad</webElementGuid>
+      <webElementGuid>8eb3aa80-9629-4002-b373-12b2d94457af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>airship-btn airship-btn-deny</value>
-      <webElementGuid>0ecd0a83-3741-4cf8-b548-6bbf61401109</webElementGuid>
+      <webElementGuid>63d2f3f2-a43a-489d-b51d-22312a1c2e92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No, gracias</value>
-      <webElementGuid>b5bdb28e-b4e8-46c3-93ed-fac24bfe422d</webElementGuid>
+      <webElementGuid>521436b7-771c-405b-adec-a1a471995fe4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/div[@class=&quot;airship-prompt-container&quot;]/div[@class=&quot;airship-alert airship-position-top&quot;]/div[@class=&quot;airship-alert-buttons&quot;]/button[@class=&quot;airship-btn airship-btn-deny&quot;]</value>
-      <webElementGuid>c2bde746-8171-4830-a087-b3ce7c3ed03b</webElementGuid>
+      <webElementGuid>574ded88-facf-429e-be05-de8b736afa07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -162,10 +162,10 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
+      <name>ref_element_is_shadow_root</name>
       <type>Main</type>
-      <value>Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Aceptar_airship-html-prompt-shadow-ad 2025-53c</value>
-      <webElementGuid>2e10f5ee-41e7-4e86-b641-7f83e39c80bd</webElementGuid>
+      <value>true</value>
+      <webElementGuid>bfc5f1d4-8567-4c65-8fb1-810e44d042de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -173,7 +173,23 @@
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bfc5f1d4-8567-4c65-8fb1-810e44d042de</webElementGuid>
+      <webElementGuid>568ab2c4-957d-44e7-a60e-d41cf817dcfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Aceptar_airship-html-prompt-shadow-ad 2025-53c</value>
+      <webElementGuid>d0f89da1-59e3-4eaf-aea3-41d9b1440a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>25dab4b1-17e9-4664-adfc-d977f59d8657</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -181,7 +197,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No, gracias']/parent::*</value>
-      <webElementGuid>9e8bf8db-898b-4bbd-8c17-055073d99003</webElementGuid>
+      <webElementGuid>984bf72b-b978-4d06-bd0b-ab358b88f95d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,6 +205,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'No, gracias' or . = 'No, gracias')]</value>
-      <webElementGuid>aad8f8ab-d502-480d-86c2-dee35194b215</webElementGuid>
+      <webElementGuid>46290b22-a49b-4077-8244-b6e338469c9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
