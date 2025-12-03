@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-17_Validar_por_tipo_entrega_Entrega_Domicilio</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ee5716a-306e-45bc-9ea8-72764dbcbd71</testCaseGuid>
+</TestCaseEntity>
