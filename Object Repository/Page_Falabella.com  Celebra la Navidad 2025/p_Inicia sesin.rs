@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>2f6fdb85-b66b-4347-8783-8b8cca3dd466</webElementGuid>
+      <webElementGuid>9b4a9838-d566-4996-87ad-6b93f0b0f475</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>UserInfo-module_my-account-label__UrVts</value>
-      <webElementGuid>cc5f7e07-1864-4f9d-b55b-addd5f2d65c7</webElementGuid>
+      <webElementGuid>d816b801-61e4-4d5b-b0fa-0b2a2a4b0a6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Inicia sesión</value>
-      <webElementGuid>379b8e41-f08d-4efe-9fd9-3dae606e90c1</webElementGuid>
+      <webElementGuid>0f47d66e-3406-4b63-8455-42d84a7c88da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user-info&quot;)/div[@class=&quot;UserInfo-module_info__name__p9TGV&quot;]/div[@class=&quot;UserInfo-module_flex__X0yNy&quot;]/p[@class=&quot;UserInfo-module_my-account-label__UrVts&quot;]</value>
-      <webElementGuid>a57a29b6-aaf2-4cd4-9a5a-0acca10e3dcb</webElementGuid>
+      <webElementGuid>f23a7e3b-fbbb-4bbd-a082-066dc402fb2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='user-info']/div/div[2]/p</value>
-      <webElementGuid>33f81cf6-ff56-4eec-a827-8c5080e6710b</webElementGuid>
+      <webElementGuid>b1b69070-41c5-48a5-ac7e-8c615f15780c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/following::p[2]</value>
-      <webElementGuid>0652f295-98cd-470c-8435-273d08625904</webElementGuid>
+      <webElementGuid>9cbf9687-5e62-4a0b-82b7-edf76d45e04a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/following::p[2]</value>
-      <webElementGuid>e15c6336-b6dc-481f-88ed-1a6a8f9043b0</webElementGuid>
+      <webElementGuid>324e6fed-fa89-4901-be36-f2c271a5610c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[2]/preceding::p[1]</value>
-      <webElementGuid>bc47ea52-571b-4d71-ac37-d3aede6f37f5</webElementGuid>
+      <webElementGuid>889ec846-88bd-4391-9652-50bdfc24de9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate'])[1]/preceding::p[1]</value>
-      <webElementGuid>e03f2beb-04b0-43a0-b8ec-02de7fe7fcf6</webElementGuid>
+      <webElementGuid>094b529c-ea49-4398-a6db-2992771f5c4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Inicia sesión']/parent::*</value>
-      <webElementGuid>b828fd16-7a07-4c9c-bdf4-3343803f54cc</webElementGuid>
+      <webElementGuid>1b1dcee7-fe28-431e-8fef-919e15db03dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p</value>
-      <webElementGuid>00b8b158-98ff-485d-878f-da6a082ec1ef</webElementGuid>
+      <webElementGuid>f19697ce-f8d0-44db-b9f3-8f7d5ea20920</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Inicia sesión' or . = 'Inicia sesión')]</value>
-      <webElementGuid>32c62969-556e-43fc-99c1-bb324b86a130</webElementGuid>
+      <webElementGuid>874cc40b-d267-481b-a6d0-1f7be549c4e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

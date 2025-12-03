@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IngresarAn no tienes cuenta Regstrate</name>
+   <tag></tag>
+   <elementGuidId>e04e2d3c-242b-42c9-b2fb-bf3b62c70414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='testId-cc-login-form']/form/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-form-module_actions-wrapper__xBRFw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ingresar¿Aún no tienes cuenta? Regístrate&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1eacab29-f62b-42ed-887f-c8a117780d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-form-module_actions-wrapper__xBRFw</value>
+      <webElementGuid>7ffd0e1c-c907-411c-be90-7ca695d81b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingresar¿Aún no tienes cuenta? Regístrate</value>
+      <webElementGuid>71fd9b30-8b48-4c7b-80dd-a6b7f935ab3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-cc-login-form&quot;)/form[@class=&quot;login-form-module_form-content__aTeg6&quot;]/div[@class=&quot;login-form-module_actions-wrapper__xBRFw&quot;]</value>
+      <webElementGuid>4e0841c0-e20f-425e-9c20-978c9914e5d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='testId-cc-login-form']/form/div[4]</value>
+      <webElementGuid>23d539f1-ba8a-4c1d-be4b-765aa047a3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS'])[1]/following::div[2]</value>
+      <webElementGuid>e5d26800-54a9-4678-a9c5-176b0b4f4c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='correo'])[1]/following::div[2]</value>
+      <webElementGuid>d981e3bf-32e5-4808-928c-fdc9b79119e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]</value>
+      <webElementGuid>b1130d18-647c-40c3-9b96-d880f3a79f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ingresar¿Aún no tienes cuenta? Regístrate' or . = 'Ingresar¿Aún no tienes cuenta? Regístrate')]</value>
+      <webElementGuid>b4536891-932c-4de3-b7d0-9c7d35398ea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
