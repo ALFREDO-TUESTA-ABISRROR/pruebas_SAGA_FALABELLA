@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[5]</value>
+         <value>//div[6]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>caca688d-2e98-4cc2-934e-cf12972601d6</webElementGuid>
+      <webElementGuid>28d5e353-0b19-422e-9a7a-f948e855f31c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>airship-html-prompt-shadow</value>
-      <webElementGuid>f0879b89-ac5c-49f0-a4bf-a3855a96876c</webElementGuid>
+      <webElementGuid>99d51723-8789-406c-882f-2b9c6a6d76c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,22 +45,22 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;airship-html-prompt-shadow&quot;]</value>
-      <webElementGuid>7ec7759c-43c8-4255-b96b-70072a486a03</webElementGuid>
+      <webElementGuid>8889948d-68fb-41dd-9ba4-b3adcfc34328</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]</value>
-      <webElementGuid>6db2b69e-fe49-4abf-a575-8cdb98295656</webElementGuid>
+      <value>//div[6]</value>
+      <webElementGuid>7faa88f7-7a41-4683-ac92-7f46103f8e99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]</value>
-      <webElementGuid>726527f6-57a1-4aa1-8984-dc78683512ec</webElementGuid>
+      <value>//div[5]</value>
+      <webElementGuid>f0a34528-8acd-407f-851e-43aead75a327</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

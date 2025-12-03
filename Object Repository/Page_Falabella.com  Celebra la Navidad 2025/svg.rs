@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>6dcc53a0-3c54-4715-8fd3-d90d6f1048df</webElementGuid>
+      <webElementGuid>3c8c865f-b908-418e-bd3f-7e6f805617ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>width</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>21b0c768-0c26-4e5b-bf5b-9d7f33518561</webElementGuid>
+      <webElementGuid>5150fd27-b275-449f-a071-821212b2e7ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>height</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>fecc131e-2de2-4916-84e9-25ab833126d4</webElementGuid>
+      <webElementGuid>7a1f6ca9-5934-4e27-9ba6-e2a541590345</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 9 16</value>
-      <webElementGuid>5818a34b-ec72-44db-8ca1-f02c887c8154</webElementGuid>
+      <webElementGuid>e69ba5c4-e0f2-4bc4-bbc8-6e517138abbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;TaxonomyDesktop-module_sidebar__1lDbW&quot;]/div[@class=&quot;TaxonomyDesktop-module_scrollWrapper__sZu3u&quot;]/div[@class=&quot;TaxonomyDesktop-module_Box__z3WXc&quot;]/div[@class=&quot;TaxonomyDesktop-module_categoryWrapper__F22OD&quot;]/div[@class=&quot;FirstLevelCategories-module_categories__bZx-r FirstLevelCategories-module_active__nGbgS&quot;]/div[@class=&quot;FirstLevelCategories-module_chevronRightIcon__QUrOM&quot;]/svg[1]</value>
-      <webElementGuid>ab149808-61e7-4034-ab26-f05a77853075</webElementGuid>
+      <webElementGuid>49f695cb-7795-426c-b113-604bdf1f4f50</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tecnología'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>c77c0d3a-89cb-4075-9fa5-89d330e14068</webElementGuid>
+      <webElementGuid>eb69b95f-3ecb-46bb-9aa7-72c1e01144b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feliz Navidad !'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>50036bb3-d165-4e64-8f35-83c0c882f2c0</webElementGuid>
+      <webElementGuid>dc8d0039-fbb9-4e20-a1eb-8aa37e5e1657</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrohogar'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>7681b0f5-5f38-4898-a86e-068384c467fc</webElementGuid>
+      <webElementGuid>d4d2b629-33ec-402b-b7fc-2b23fec148c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Muebles y Organización'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>de4747e7-649b-420f-9bda-db696c511a87</webElementGuid>
+      <webElementGuid>8457a821-8a64-406b-b9e4-8329a78396a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

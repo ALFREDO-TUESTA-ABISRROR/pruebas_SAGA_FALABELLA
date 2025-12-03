@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>869d8691-e041-4af8-9079-28199fc3f2b5</webElementGuid>
+      <webElementGuid>b49d61d0-3323-40e9-98be-742747835d13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>airship-btn airship-btn-deny</value>
-      <webElementGuid>1848cadd-28b5-49b4-83de-9f5e9e04ee30</webElementGuid>
+      <webElementGuid>d8bde98a-2f84-4461-92fe-9299f7c4f229</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No, gracias</value>
-      <webElementGuid>b76224fb-179e-453e-9ebb-cb59b31bb3dc</webElementGuid>
+      <webElementGuid>197ece9d-ddc9-47b8-8b67-aeaa91283777</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/div[@class=&quot;airship-prompt-container&quot;]/div[@class=&quot;airship-alert airship-position-top&quot;]/div[@class=&quot;airship-alert-buttons&quot;]/button[@class=&quot;airship-btn airship-btn-deny&quot;]</value>
-      <webElementGuid>d41e3829-7fc2-447a-89bd-985b6cc83166</webElementGuid>
+      <webElementGuid>656bf723-dcdf-4be8-941b-d8885cde1633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,10 +74,10 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
+      <name>ref_element_is_shadow_root</name>
       <type>Main</type>
-      <value>Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Aceptar_airship-html-prompt-shadow-ad 2025-53c</value>
-      <webElementGuid>51c26336-75dc-4e41-b9c5-650ea8a46f56</webElementGuid>
+      <value>true</value>
+      <webElementGuid>455cdcfa-4578-40c7-ba79-6f0126ef1cd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,23 @@
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>455cdcfa-4578-40c7-ba79-6f0126ef1cd5</webElementGuid>
+      <webElementGuid>17ac6b01-72ed-4137-ab7b-09ce89b4a5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Aceptar_airship-html-prompt-shadow-ad 2025-53c</value>
+      <webElementGuid>a952dd0c-2faf-4ef2-9a6c-8282b309b64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>70db97fc-bed8-4fd4-a479-a55eb4744bb1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No, gracias']/parent::*</value>
-      <webElementGuid>5ed7e8d3-2b10-4002-9c77-56234522de40</webElementGuid>
+      <webElementGuid>9612cfa9-e34f-4891-9980-037580445178</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'No, gracias' or . = 'No, gracias')]</value>
-      <webElementGuid>48364e1d-ddea-4e49-bd6e-3bd1e2261f82</webElementGuid>
+      <webElementGuid>265a0b20-5f5b-4aa6-8412-34eade9f4426</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
