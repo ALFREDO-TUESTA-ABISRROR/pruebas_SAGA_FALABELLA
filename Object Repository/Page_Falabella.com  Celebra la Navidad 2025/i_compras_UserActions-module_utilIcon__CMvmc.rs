@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Aceptar_airship-html-prompt-shadow-ad 2025-53c</name>
+   <name>i_compras_UserActions-module_utilIcon__CMvmc</name>
    <tag></tag>
-   <elementGuidId>14861bfb-9607-4034-9daf-4202d5b25adc</elementGuidId>
+   <elementGuidId>6d248664-3924-48db-b30e-1aeaf2a25245</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[4]</value>
+         <value>//a[@id='testId-UserAction-basket']/i</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.airship-html-prompt-shadow</value>
+         <value>#testId-UserAction-basket > i.UserActions-module_utilIcon__CMvmc</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=&quot;Airship ¿Quieres conocer las mejores ofertas? Que nadie te lo cuente. Suscríbete&quot;i >> nth=0</value>
+         <value>#testId-UserAction-basket</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,47 +28,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>52425ab4-6ea0-4c6a-a60f-52d712c6c8d3</webElementGuid>
+      <value>i</value>
+      <webElementGuid>891d6b23-f867-47b3-9a75-34b9524d4210</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>airship-html-prompt-shadow</value>
-      <webElementGuid>83234bea-2f33-4e34-889d-c0f5afb9a52f</webElementGuid>
+      <value>UserActions-module_utilIcon__CMvmc</value>
+      <webElementGuid>95af89cf-1760-4ed8-b5f9-2384ddf98cae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;airship-html-prompt-shadow&quot;]</value>
-      <webElementGuid>cb1c0c74-8f28-4810-8fc0-447d7a94056f</webElementGuid>
+      <value>id(&quot;testId-UserAction-basket&quot;)/i[@class=&quot;UserActions-module_utilIcon__CMvmc&quot;]</value>
+      <webElementGuid>d2ff734c-6a8b-4a84-bbcb-24aba98700df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[4]</value>
-      <webElementGuid>2f4047fe-097b-4bc1-9d5b-d9d58011fc31</webElementGuid>
+      <value>//a[@id='testId-UserAction-basket']/i</value>
+      <webElementGuid>7aac90e7-5224-487f-a333-9dc6b1dbfcdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]</value>
-      <webElementGuid>c013201b-51de-4fd1-a211-ff74133a24c7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[6]</value>
-      <webElementGuid>04d76641-5862-4643-ab72-20303d5ecd4b</webElementGuid>
+      <value>//li[4]/div/a/i</value>
+      <webElementGuid>6ad41cf3-f1c4-4714-8abb-7f85016b5561</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
