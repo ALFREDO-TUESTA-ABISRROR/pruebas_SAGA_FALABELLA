@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14_Validar búsqueda sin resultados (término inexistente)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4cb5fd8-22bf-4eba-8abd-1111f5fbc79c</testCaseGuid>
+</TestCaseEntity>
