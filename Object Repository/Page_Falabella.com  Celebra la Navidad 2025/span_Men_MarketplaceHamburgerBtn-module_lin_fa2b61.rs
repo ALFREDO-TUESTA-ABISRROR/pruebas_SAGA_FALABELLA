@@ -6,12 +6,12 @@
    <elementGuidId>e3b83529-c0a4-4e77-b59a-d390d0301c5d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='testId-HamburgerBtn-toggle']/div/div/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.MarketplaceHamburgerBtn-module_line__xQVGP</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='testId-HamburgerBtn-toggle']/div/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7ba7c267-4db1-4342-83d0-578a627201f4</webElementGuid>
+      <webElementGuid>29e39fe1-06a6-40ce-90b9-c1e28f7389c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MarketplaceHamburgerBtn-module_line__xQVGP</value>
-      <webElementGuid>4829fbaf-c539-4481-9071-f995ef87f4c2</webElementGuid>
+      <webElementGuid>205bb3bb-8351-4fcb-a3ee-c868e4081549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-HamburgerBtn-toggle&quot;)/div[@class=&quot;MarketplaceHamburgerBtn-module_icon__r2oRR&quot;]/div[@class=&quot;MarketplaceHamburgerBtn-module_icon-container__nCNAF&quot;]/span[@class=&quot;MarketplaceHamburgerBtn-module_line__xQVGP&quot;]</value>
-      <webElementGuid>d219a06e-650d-4346-b0d8-d3b71bf15531</webElementGuid>
+      <webElementGuid>ee23e771-4642-4718-9623-5dca78e19886</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='testId-HamburgerBtn-toggle']/div/div/span</value>
-      <webElementGuid>33104afe-4364-4661-8803-a2584e95beef</webElementGuid>
+      <webElementGuid>19f7ba7a-5ad9-45e7-8ce7-2feec29a52dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>06311f57-948f-46d2-839a-eda10e0841c8</webElementGuid>
+      <webElementGuid>0953290c-e032-42b2-ac3d-785fd78d80db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
