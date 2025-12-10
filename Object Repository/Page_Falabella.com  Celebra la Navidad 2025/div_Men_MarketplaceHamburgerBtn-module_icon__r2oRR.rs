@@ -6,12 +6,12 @@
    <elementGuidId>2e1062ba-5a71-4f64-b271-15b33dd98519</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.MarketplaceHamburgerBtn-module_icon__r2oRR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>851d4c75-2995-40e8-b0d3-7ac1be7d2b4c</webElementGuid>
+      <webElementGuid>9627cafb-7f6f-4a5c-b035-97e916de8e22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MarketplaceHamburgerBtn-module_icon__r2oRR </value>
-      <webElementGuid>044c6c64-ec19-4562-a5cb-5d76417aa65c</webElementGuid>
+      <webElementGuid>012b6d41-3e2a-4630-9951-446f7dd805bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-HamburgerBtn-toggle&quot;)/div[@class=&quot;MarketplaceHamburgerBtn-module_icon__r2oRR&quot;]</value>
-      <webElementGuid>9c9c8f71-ca17-42c5-a09a-b94a7ef03b0b</webElementGuid>
+      <webElementGuid>608b4363-3d11-4e90-becb-317c32d56838</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='testId-HamburgerBtn-toggle']/div</value>
-      <webElementGuid>cbd98f14-023e-4a30-a257-9729303c8cd6</webElementGuid>
+      <webElementGuid>85f93ab8-cdf0-4587-a50f-a3f7e3086880</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/preceding::div[2]</value>
-      <webElementGuid>7056e01a-1eda-4f8d-98f4-e70498af131d</webElementGuid>
+      <webElementGuid>7645b411-5b16-43ee-9d45-0adbb80c076f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Bar'])[1]/preceding::div[3]</value>
-      <webElementGuid>542c2bbe-d707-4dee-bf0e-b1b4ad52b6d6</webElementGuid>
+      <webElementGuid>f3d5ceec-c203-47d8-94c3-94f1c6f17887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>5c19bb6e-d0b1-4fbb-82ab-0d369c878f6f</webElementGuid>
+      <webElementGuid>b7f138c9-ac9a-43ae-9d41-5a31ea627f00</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
