@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>86d791be-04dd-421c-b886-58abcb0d3de7</webElementGuid>
+      <webElementGuid>1d5811d1-13bb-43b6-8219-ccd932619642</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>linkButton</value>
-      <webElementGuid>5e68b1b9-3841-4ed9-a4f3-b61c2aa867f2</webElementGuid>
+      <webElementGuid>4974e560-af89-4298-8798-f0ddd8e31aef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.falabella.com.pe/falabella-pe/basket</value>
-      <webElementGuid>db1edda9-282a-498c-b2d4-531df2dcc637</webElementGuid>
+      <webElementGuid>9303a6e7-be79-468a-8b5d-7e28c5729258</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jsx-2760526313 button button-mkp-secondary button-medium</value>
-      <webElementGuid>d26c0a33-f3a1-4e7a-aed8-954048cdbd7c</webElementGuid>
+      <webElementGuid>7a0d5399-1e8b-423a-8dca-306e81a96af6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ir al Carro</value>
-      <webElementGuid>3c5a1d7f-0750-4750-8e9a-04b42623162a</webElementGuid>
+      <webElementGuid>f873f75c-5611-4bbe-8834-466f4e7b69b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;linkButton&quot;)</value>
-      <webElementGuid>f1ed9718-2610-4715-afff-cce3021df1ae</webElementGuid>
+      <webElementGuid>131bf926-85f8-44ae-9992-f93c268a5dd5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='linkButton']</value>
-      <webElementGuid>63cc8417-9601-4a7b-a5c7-135851f55e7a</webElementGuid>
+      <webElementGuid>6c6d4ba4-2db4-443b-9da8-872139a7db7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Ir al Carro')])[2]</value>
-      <webElementGuid>78a9bb59-cea1-4f29-983d-28a3729d45e6</webElementGuid>
+      <webElementGuid>b398255a-a046-4ad8-8d8c-578de9669b1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Seguir comprando'])[2]/following::a[1]</value>
-      <webElementGuid>1dd2d4af-ee27-4f99-baf1-5f9499c486ce</webElementGuid>
+      <webElementGuid>58cf0241-f28f-4e4b-a5bc-6843c6641546</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Los productos de tu carro de compras pueden agotarse próximamente. Cómpralos pronto.'])[1]/following::a[1]</value>
-      <webElementGuid>8053537b-36f5-49cb-9a90-7d73f7ea6904</webElementGuid>
+      <webElementGuid>a982bff3-7c39-4ffd-9b12-fcb77c9406b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://www.falabella.com.pe/falabella-pe/basket')])[3]</value>
-      <webElementGuid>2d1a5e99-1a50-47cf-a565-569490d653c5</webElementGuid>
+      <webElementGuid>97649186-18e5-4040-bfcb-251a3e0acc30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/div/div/div[3]/div[2]/div/a</value>
-      <webElementGuid>3c51ebde-c850-4866-a6dc-fdfc6476b4a0</webElementGuid>
+      <webElementGuid>6378bea1-2817-4674-ab21-5a8d33eba78b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'linkButton' and @href = 'https://www.falabella.com.pe/falabella-pe/basket' and (text() = 'Ir al Carro' or . = 'Ir al Carro')]</value>
-      <webElementGuid>a2758122-3571-40f1-9710-5dde8bc8a9d7</webElementGuid>
+      <webElementGuid>d8a858cb-5608-4fb2-801a-8554894d601d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

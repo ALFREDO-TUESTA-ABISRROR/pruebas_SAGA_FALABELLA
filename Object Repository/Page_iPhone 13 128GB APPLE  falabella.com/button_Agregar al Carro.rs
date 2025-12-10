@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a852492c-4814-409e-8a39-1a4529bfa3b7</webElementGuid>
+      <webElementGuid>599323f2-1429-480f-8fdc-84762ba9bb58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4cd68207-7c4c-49b1-8f8c-bc57e47135b7</webElementGuid>
+      <webElementGuid>e550982e-f4dd-4f2f-9d92-8b161e63122d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add-to-cart-button</value>
-      <webElementGuid>bfb0bf2b-656e-491f-a133-068584692577</webElementGuid>
+      <webElementGuid>13e16cb6-085d-4811-ab36-5691dbfb78c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jsx-1632188836 button button-mkp-primary button-mkp-primary-xtra-large</value>
-      <webElementGuid>a9a1b32b-637a-4f26-8c1c-a33c1fd19d18</webElementGuid>
+      <webElementGuid>a86e416f-e2f3-42f5-b920-a61d926178e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Agregar al Carro</value>
-      <webElementGuid>40a911ae-0cf4-4c6b-aff9-7591e268dd11</webElementGuid>
+      <webElementGuid>f7e109af-e673-4ad1-b9f5-da8c90ba7b84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-to-cart-button&quot;)</value>
-      <webElementGuid>f4a74ca9-6f04-46ac-a06b-a209d9b5a397</webElementGuid>
+      <webElementGuid>796c577f-cc7e-4b1d-9e0d-53532cb5a33b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='add-to-cart-button']</value>
-      <webElementGuid>8424eb78-d348-4e4b-9ef0-9df666b15ac3</webElementGuid>
+      <webElementGuid>176b7752-1dab-4f3f-9e5b-ad496296543f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='buttonForCustomers']/button</value>
-      <webElementGuid>7e40ef0f-f677-4fff-9fae-3c87682ccca8</webElementGuid>
+      <webElementGuid>95da730c-a4a1-43b6-9633-8d7ea2fae33c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
-      <webElementGuid>0e03498f-154d-4669-97ab-21059f7b52e0</webElementGuid>
+      <webElementGuid>02df6fa2-083a-4a70-a733-a89ceb061165</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[1]/following::button[2]</value>
-      <webElementGuid>36642b23-c85c-4ac1-9d6b-4df1afe26f6f</webElementGuid>
+      <webElementGuid>5c6aee0e-8775-422f-a409-c836b5e5d990</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Agregar al Carro']/parent::*</value>
-      <webElementGuid>993a4c37-eca1-4308-96ae-130585ac58cd</webElementGuid>
+      <webElementGuid>ed7b1334-0872-4977-bd1f-c77c6e4ff982</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/button</value>
-      <webElementGuid>39f38b11-4726-463c-b76d-65abd6613ed1</webElementGuid>
+      <webElementGuid>6e5261a9-bd07-4ffd-825e-5a2268430165</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'add-to-cart-button' and (text() = 'Agregar al Carro' or . = 'Agregar al Carro')]</value>
-      <webElementGuid>439eeec2-9637-4417-a0c4-485dc04cf2f7</webElementGuid>
+      <webElementGuid>b891135c-6043-493c-9587-5e74b4a5152c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

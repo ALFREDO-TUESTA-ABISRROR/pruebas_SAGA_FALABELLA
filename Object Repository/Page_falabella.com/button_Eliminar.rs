@@ -6,19 +6,19 @@
    <elementGuidId>c16838a7-8079-41f8-83b9-8dc6f587c267</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='menu-list-2-menuitem-16']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#menu-list-2-menuitem-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='menu-list-2-menuitem-16']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-testid=&quot;\31 8673460-delete-button&quot;]</value>
+         <value>[data-testid=&quot;\31 8673461-delete-button&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b8b69aff-9147-4a5b-8c1a-8497d0182c1d</webElementGuid>
+      <webElementGuid>1bca714f-874c-4ded-a274-cb5bec925025</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9f4d01ae-4bbd-4f6a-9a9c-0f95a55fc861</webElementGuid>
+      <webElementGuid>f83d69d8-171d-432c-889e-ba4b9cfb7c49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-testid</name>
       <type>Main</type>
-      <value>18673460-delete-button</value>
-      <webElementGuid>890fe2ab-2928-480b-a6dd-df801df7031b</webElementGuid>
+      <value>18673461-delete-button</value>
+      <webElementGuid>68856b8a-1d95-4c8d-9db5-e61629dea4fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>menu-list-2-menuitem-16</value>
-      <webElementGuid>95ad5938-7d67-4df7-bb84-7ffcc2636724</webElementGuid>
+      <webElementGuid>11c62200-98f1-4650-ada5-a9775c95a3a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>40e45b18-2a63-4001-96b8-fcf85c8b819a</webElementGuid>
+      <webElementGuid>c4336b03-5f6e-4863-9b65-09cf612757b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>bb0a267f-ce0a-4e1f-8bbc-4839a373fbf4</webElementGuid>
+      <webElementGuid>dc166548-2233-4f83-815c-1f470073ef9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-menu__menuitem css-6ad35r</value>
-      <webElementGuid>9e42b84a-d148-4a09-9a45-5880c35b5347</webElementGuid>
+      <webElementGuid>d4526717-1942-4cdb-bf8c-24aa7a82b6de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>24dd4d08-7b57-4bf5-a46a-e2fa536312d2</webElementGuid>
+      <webElementGuid>c2099feb-3c2b-4e73-92dc-42ce37b15bcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Eliminar</value>
-      <webElementGuid>bd4f4701-75e9-44dc-a0cb-75bf0cd28bd2</webElementGuid>
+      <webElementGuid>2bc0b272-6197-406a-b67a-d51546d1ebe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-list-2-menuitem-16&quot;)</value>
-      <webElementGuid>9d6eae53-2bcb-4cf5-82d0-6cd506d55e12</webElementGuid>
+      <webElementGuid>d6d824d5-3c72-490d-a3ca-1c1e487e64db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='menu-list-2-menuitem-16']</value>
-      <webElementGuid>4bb943bc-6b69-49f9-9ff4-7b448909dce1</webElementGuid>
+      <webElementGuid>1820d403-5895-4bb8-8ac3-9ff8fa96ffd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu-list-2']/button[2]</value>
-      <webElementGuid>043c84c1-e246-49d4-ae42-3c136b5524b8</webElementGuid>
+      <webElementGuid>cfc2f75e-e898-400b-9d94-c4588bfe0f9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar para después'])[1]/following::button[1]</value>
-      <webElementGuid>2a778180-e698-4c7b-8280-eaed0080f04f</webElementGuid>
+      <webElementGuid>999c84cd-e8c9-44fa-821b-a46f130f6558</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Retira hoy'])[1]/following::button[5]</value>
-      <webElementGuid>2c3c79f4-f073-4f20-a299-77cd421e9cec</webElementGuid>
+      <webElementGuid>c21205fd-a846-4784-93e9-272088748544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar'])[1]/preceding::button[1]</value>
-      <webElementGuid>6842a931-0020-4071-9b60-e266edb2e133</webElementGuid>
+      <webElementGuid>7bbf0dd3-5c4b-4dae-aed1-d9bcd67552e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Productos (1)'])[1]/preceding::button[2]</value>
-      <webElementGuid>15223787-20f4-4d9a-95c3-5dbb64635a28</webElementGuid>
+      <webElementGuid>07171773-8f23-4a65-ba61-14e697798aa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Eliminar']/parent::*</value>
-      <webElementGuid>ab2fbf7a-7b06-45ba-957f-89d853495ae2</webElementGuid>
+      <webElementGuid>2e3f8b78-27ea-4c78-b7e2-8d84cf77ea69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button[2]</value>
-      <webElementGuid>f77b193d-0aea-4610-97bc-aeae19722136</webElementGuid>
+      <webElementGuid>c9b4ac02-6ef3-4d01-a7b5-9a32e546f275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'menu-list-2-menuitem-16' and (text() = 'Eliminar' or . = 'Eliminar')]</value>
-      <webElementGuid>49f03a62-0be9-4aff-a4d8-bd4cc6c2dca8</webElementGuid>
+      <webElementGuid>77cd701a-7f28-46cf-affa-1c53d0b55240</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

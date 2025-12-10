@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>9dac41ee-43cf-44e5-a2e9-4b8a550a237c</webElementGuid>
+      <webElementGuid>927c0e22-ee9c-4655-87f5-6efdb08a801d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>width</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>92c236f4-15c8-402d-85ee-a8c1e1aca0b8</webElementGuid>
+      <webElementGuid>97542df0-a3ff-4784-8735-dc94915d723d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>height</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>b2e4e591-7a12-47b4-a6ae-e95ea750f094</webElementGuid>
+      <webElementGuid>467b74de-098a-4745-85c6-2c3d8852c165</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 9 16</value>
-      <webElementGuid>99b86d79-0aa4-406f-8b43-7288a973fb40</webElementGuid>
+      <webElementGuid>49000231-3dca-4733-8651-a8d525bd2738</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;TaxonomyDesktop-module_sidebar__1lDbW&quot;]/div[@class=&quot;TaxonomyDesktop-module_scrollWrapper__sZu3u&quot;]/div[@class=&quot;TaxonomyDesktop-module_Box__z3WXc&quot;]/div[@class=&quot;TaxonomyDesktop-module_categoryWrapper__F22OD&quot;]/div[@class=&quot;FirstLevelCategories-module_categories__bZx-r FirstLevelCategories-module_active__nGbgS&quot;]/div[@class=&quot;FirstLevelCategories-module_chevronRightIcon__QUrOM&quot;]/svg[1]</value>
-      <webElementGuid>3cab0521-8493-4d8a-aaf4-b40940c4718d</webElementGuid>
+      <webElementGuid>78d2865a-0f99-4ebb-a228-9ce0cc66b3cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tecnología'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>55fc3ad1-4574-4ba0-9679-9094c8aa4333</webElementGuid>
+      <webElementGuid>78adde2d-6809-42ff-8c42-cf72d1c48633</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feliz Navidad !'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>55db38dc-b25b-42f3-afad-d71e4b6fbcff</webElementGuid>
+      <webElementGuid>664f469c-3f43-4ea2-9927-1243f4686d12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrohogar'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>321848ea-490c-4ce7-b747-4bedf983fd50</webElementGuid>
+      <webElementGuid>7e80de53-2ee3-4893-b1cc-81d5822b15c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Niños y Juguetes'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>19e59895-a633-4720-8797-877e9f76980b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f72b2a9d-4775-46f6-927b-8c87aabea0c4</webElementGuid>
+      <webElementGuid>5b84fd8e-8954-4db6-af8d-d366130dbd25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>airship-btn airship-btn-deny</value>
-      <webElementGuid>a0cb9cd4-bf13-47a2-9739-b885ce3b352d</webElementGuid>
+      <webElementGuid>130d4285-7fd5-4588-b139-34565c465bd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No, gracias</value>
-      <webElementGuid>6a9323f4-bdb7-4fb5-92b7-8839db069d46</webElementGuid>
+      <webElementGuid>152f184b-71ba-4675-983e-06c5d3918816</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/div[@class=&quot;airship-prompt-container&quot;]/div[@class=&quot;airship-alert airship-position-top&quot;]/div[@class=&quot;airship-alert-buttons&quot;]/button[@class=&quot;airship-btn airship-btn-deny&quot;]</value>
-      <webElementGuid>5451a571-a941-48cd-a15a-278f9ee692af</webElementGuid>
+      <webElementGuid>ed327f32-a258-4516-a38b-ad04023c3cd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -90,10 +90,18 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c41c94e0-b139-4708-b51f-aa306f447578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Aceptar_airship-html-prompt-shadow-ad 2025-b68</value>
-      <webElementGuid>17f2be9e-ff2c-4809-8658-8126a8b2be63</webElementGuid>
+      <webElementGuid>01bf797f-9dd7-440b-85c3-0864bf3d9838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +109,7 @@
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c41c94e0-b139-4708-b51f-aa306f447578</webElementGuid>
+      <webElementGuid>002001a1-a543-4ae3-8b45-ea3e41555a6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No, gracias']/parent::*</value>
-      <webElementGuid>9804c776-697d-437b-a73a-6e119af0d7f2</webElementGuid>
+      <webElementGuid>44dab4f0-d902-48fb-82a7-5adbea3ead95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'No, gracias' or . = 'No, gracias')]</value>
-      <webElementGuid>768e2cdb-24f6-4098-851a-3ee836abfab9</webElementGuid>
+      <webElementGuid>600a9e4d-a4a8-4780-85f7-f0efe9c02c47</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
