@@ -6,12 +6,12 @@
    <elementGuidId>1135f74b-df99-4f53-bba2-c7820fb05315</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='scrollable-content']/div/div[2]/div/div[2]/div/div[2]/div/ul/li[4]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollable-content']/div/div[2]/div/div[2]/div/div[2]/div/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>88645183-4f76-40b7-a9f3-bbb70b91b683</webElementGuid>
+      <webElementGuid>f8d3564f-93ed-436d-a353-66a8fbf5fa71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer noopener</value>
-      <webElementGuid>a4453a38-faab-4deb-b357-c07d6adae05d</webElementGuid>
+      <webElementGuid>fdcef4b0-1a46-457b-b345-26ffb44296cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
-      <webElementGuid>8c8cecca-c6e2-4183-b989-ae78e97e23e2</webElementGuid>
+      <webElementGuid>f7585dd2-7a6d-4625-8deb-080337d5c326</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.falabella.com.pe/falabella-pe/category/cat760706/Celulares-y-Telefonos?facetSelected=true&amp;f.product.brandName=apple</value>
-      <webElementGuid>6950898a-acff-470a-89f4-add32ddfa09f</webElementGuid>
+      <webElementGuid>23a8eb85-8ed0-4654-b0b0-b551c2e2b650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Apple</value>
-      <webElementGuid>443b91b7-0e7b-4aad-bcee-aa128d274c04</webElementGuid>
+      <webElementGuid>0a608ab8-a054-446c-b2bb-a4b36676c107</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;scrollable-content&quot;)/div[@class=&quot;Header-module_container__8x1TS Header-module_header-container__UoP9n&quot;]/div[@class=&quot;Taxonomy-module_HamburgerBtnWrapper__oNEG4&quot;]/div[@class=&quot;TaxonomyDesktop-module_TaxonomyDesktop__Ihty- sidebar-open-enter-done&quot;]/div[@class=&quot;SecondLevelCategories-module_secondLevelMenuContainer__I3RRy&quot;]/div[@class=&quot;SecondLevelCategories-module_scrollContainer__3kQqe&quot;]/div[@class=&quot;SecondLevelCategories-module_subCategoryContent__c8yUJ&quot;]/div[@class=&quot;SecondLevelCategories-module_secondLevelMenuItemsBox__GUf9F&quot;]/ul[@class=&quot;SecondLevelCategories-module_secondLevelCategory__NVToy&quot;]/li[@class=&quot;SecondLevelCategories-module_thirdLevelCategory__0VfiO&quot;]/a[1]</value>
-      <webElementGuid>08625dc2-adbd-461c-bb7f-27223a28596e</webElementGuid>
+      <webElementGuid>b9d534e5-99ec-4b64-b036-394ed7a2e00e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='scrollable-content']/div/div[2]/div/div[2]/div/div[2]/div/ul/li[4]/a</value>
-      <webElementGuid>01466b79-3203-45a1-bbdc-b065a56ecde5</webElementGuid>
+      <webElementGuid>ffafc6c4-d631-403b-8f73-b3c7030e8914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Apple')]</value>
-      <webElementGuid>7dea5e85-14e0-40e0-a560-6a6ad512114e</webElementGuid>
+      <webElementGuid>e6f4cb7a-f958-4c14-91b3-a3bbe3a2ac49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Celulares'])[2]/following::a[1]</value>
-      <webElementGuid>60c5b944-4dbc-471b-998d-7bb6a72ed9c5</webElementGuid>
+      <webElementGuid>c85482d7-f246-406a-a3c6-ee4f7509698e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver todo'])[2]/following::a[2]</value>
-      <webElementGuid>f2b9b836-2abd-49ae-a048-2bab64b3f652</webElementGuid>
+      <webElementGuid>82c0642e-d9ee-436a-8e4f-2517886f1fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung'])[1]/preceding::a[1]</value>
-      <webElementGuid>98c1b04b-75a4-4d95-894c-b2d22aec01e3</webElementGuid>
+      <webElementGuid>912c3456-50ed-4857-9827-7a0c634dba2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xiaomi'])[1]/preceding::a[2]</value>
-      <webElementGuid>043e8098-a436-4502-a80d-53573374bcc8</webElementGuid>
+      <webElementGuid>18e1c497-633c-4d9b-86f8-66406b9111d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Apple']/parent::*</value>
-      <webElementGuid>6c402bd5-2d3b-4238-a1d7-e77ea20c6dff</webElementGuid>
+      <webElementGuid>4455208e-15ed-46e9-8f1b-907bed425507</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.falabella.com.pe/falabella-pe/category/cat760706/Celulares-y-Telefonos?facetSelected=true&amp;f.product.brandName=apple')]</value>
-      <webElementGuid>10c7a487-6cdf-4dd2-8861-f8ecc703971b</webElementGuid>
+      <webElementGuid>28cfea03-f755-414e-8c07-a6935b5249ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>7f183657-45c3-41a6-9821-c1865a991368</webElementGuid>
+      <webElementGuid>93b81809-6d6d-4224-a886-6098792db733</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.falabella.com.pe/falabella-pe/category/cat760706/Celulares-y-Telefonos?facetSelected=true&amp;f.product.brandName=apple' and (text() = 'Apple' or . = 'Apple')]</value>
-      <webElementGuid>818b8162-8419-4f4d-8168-ffdf1b3d1170</webElementGuid>
+      <webElementGuid>749eaac3-c039-4f17-8e64-af1a15cce5cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_APPLEIPhone 17 Pro Max Intelligence 256_174d8c</name>
+   <tag></tag>
+   <elementGuidId>9bb5f069-81ac-4386-9f8b-fd2bcaca4e89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='testId-searchResults-products']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#testId-searchResults-products div >> internal:has-text=&quot;APPLEIPhone 17 Pro Max Intelligence 256GB (eSIM) - Silver + Combo RegaloPor Oh S&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ec642f8-5222-4f98-aee6-45606b983a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pod-layout</name>
+      <type>Main</type>
+      <value>4_GRID</value>
+      <webElementGuid>13db6868-882d-4712-b464-c958fbc9d6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ssr-pod</value>
+      <webElementGuid>62df2035-6d00-44dc-a2b7-1d7a7d801e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-3752256814 search-results-4-grid grid-pod </value>
+      <webElementGuid>c212397e-95fd-48b7-ac13-7132bd57e2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPLEIPhone 17 Pro Max Intelligence 256GB (eSIM) - Silver + Combo RegaloPor Oh Shop S/  6,199   -11%S/  6,999   Envío gratisRetira mañana(3)Agregar al Carro</value>
+      <webElementGuid>34bebb51-43bc-41cd-b444-0aa10a7eafdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-searchResults-products&quot;)/div[@class=&quot;jsx-3752256814 search-results-4-grid grid-pod&quot;]</value>
+      <webElementGuid>083e7016-4e0d-4abc-b8d8-f4f8494c775b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='testId-searchResults-products']/div[3]</value>
+      <webElementGuid>ef3ecb32-98fd-4c27-ac05-871735369858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar al Carro'])[2]/following::div[1]</value>
+      <webElementGuid>3f5497d2-f0f4-4a8e-bbf6-ece56a02e584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(26)'])[1]/following::div[5]</value>
+      <webElementGuid>fbc78517-efd4-42d9-bc9f-a11cd7da7781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div[3]</value>
+      <webElementGuid>d19d8e69-0148-40e6-8d42-0dbf48ce8890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'APPLEIPhone 17 Pro Max Intelligence 256GB (eSIM) - Silver + Combo RegaloPor Oh Shop S/  6,199   -11%S/  6,999   Envío gratisRetira mañana(3)Agregar al Carro' or . = 'APPLEIPhone 17 Pro Max Intelligence 256GB (eSIM) - Silver + Combo RegaloPor Oh Shop S/  6,199   -11%S/  6,999   Envío gratisRetira mañana(3)Agregar al Carro')]</value>
+      <webElementGuid>60a66794-014c-4414-97f7-1b9d9e711214</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

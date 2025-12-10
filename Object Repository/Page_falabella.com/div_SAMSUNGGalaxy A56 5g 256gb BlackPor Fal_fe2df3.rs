@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SAMSUNGGalaxy A56 5g 256gb BlackPor Fal_fe2df3</name>
+   <tag></tag>
+   <elementGuidId>2a77e0fb-24ef-4905-ab75-d2303e28eda2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='testId-searchResults-products']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#testId-searchResults-products div >> internal:has-text=&quot;SAMSUNGGalaxy A56 5g 256gb BlackPor FalabellaS/ 1,199 -37%S/ 1,399 S/ 1,899 Lleg&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85dff832-9991-4412-9c7b-30f5d7f55abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pod-layout</name>
+      <type>Main</type>
+      <value>4_GRID</value>
+      <webElementGuid>e173e77f-69b8-4893-8601-3364b60590f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ssr-pod</value>
+      <webElementGuid>c306938e-3ad3-4fdb-94e6-c132cdc60d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-3752256814 search-results-4-grid grid-pod </value>
+      <webElementGuid>cd35f0bb-9dd7-46dc-9d3d-322fe8bb3624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SAMSUNGGalaxy A56 5g 256gb BlackPor FalabellaS/  1,199   -37%S/  1,399   S/  1,899   Llega mañanaRetira hoyEnvío en 180 minutos(420)Agregar al Carro</value>
+      <webElementGuid>b29339a3-ded7-4eec-a9cb-66aa063ac77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testId-searchResults-products&quot;)/div[@class=&quot;jsx-3752256814 search-results-4-grid grid-pod&quot;]</value>
+      <webElementGuid>b454c951-6ccb-41a9-8239-65a7582d7afe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='testId-searchResults-products']/div[2]</value>
+      <webElementGuid>8dfbffdf-9195-431d-aca0-28e47976d05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar al Carro'])[1]/following::div[1]</value>
+      <webElementGuid>e4dd0208-8a21-4090-9916-ffb1fa243a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1788)'])[1]/following::div[5]</value>
+      <webElementGuid>61fd4b02-7dbd-4241-a8cd-5f2b7e809c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div[3]/div[2]</value>
+      <webElementGuid>e46675a4-ea8b-42db-a275-93a96e354049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SAMSUNGGalaxy A56 5g 256gb BlackPor FalabellaS/  1,199   -37%S/  1,399   S/  1,899   Llega mañanaRetira hoyEnvío en 180 minutos(420)Agregar al Carro' or . = 'SAMSUNGGalaxy A56 5g 256gb BlackPor FalabellaS/  1,199   -37%S/  1,399   S/  1,899   Llega mañanaRetira hoyEnvío en 180 minutos(420)Agregar al Carro')]</value>
+      <webElementGuid>5e1d6d7f-beaf-4273-bdd5-69d26701ca8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

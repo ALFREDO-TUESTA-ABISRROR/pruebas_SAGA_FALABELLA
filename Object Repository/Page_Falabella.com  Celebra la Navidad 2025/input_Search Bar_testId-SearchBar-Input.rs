@@ -6,12 +6,12 @@
    <elementGuidId>fe932e70-fb96-4363-a289-211cda771670</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='testId-SearchBar-Input']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#testId-SearchBar-Input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='testId-SearchBar-Input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a5db6f6c-cf4c-488f-8475-624c11964795</webElementGuid>
+      <webElementGuid>48c81a64-50ef-42d0-b1e7-b68e85e28b0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8167424a-50b1-406d-95d2-c73f498cec14</webElementGuid>
+      <webElementGuid>66179a3a-6307-4208-9f5d-c84770caeee8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>SearchBar-module_searchBar__Input__NDqpk</value>
-      <webElementGuid>3f259301-7fd1-4caa-9029-2cf115603f1d</webElementGuid>
+      <webElementGuid>07d7f119-6ca5-4aff-95e7-79f2bbef98df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>testId-SearchBar-Input</value>
-      <webElementGuid>8419898d-01ca-4d0b-a8c5-a8394f107733</webElementGuid>
+      <webElementGuid>30d78b40-caf6-493d-b5f5-85bd2ee950bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>cd2cef79-3a4b-4e0c-9bcf-3d704931f06b</webElementGuid>
+      <webElementGuid>8cc87b18-1e6b-4538-82a8-79d67a712524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1683651e-dd33-4d14-ba54-db0464abd0ce</webElementGuid>
+      <webElementGuid>d9c4b9a1-cb5a-4133-a922-4b96e1ec147d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Buscar en falabella.com</value>
-      <webElementGuid>6e64f6ed-bd51-4e27-8956-4678c11ae2b9</webElementGuid>
+      <webElementGuid>39ccba71-6705-41b5-9361-3572f8f52637</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;testId-SearchBar-Input&quot;)</value>
-      <webElementGuid>b36212c0-bc87-4788-ad5c-b5c9ca61b1d7</webElementGuid>
+      <webElementGuid>d6336eed-5031-438c-828e-c6156d2a9d19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='testId-SearchBar-Input']</value>
-      <webElementGuid>fed3624d-690e-4f20-9207-dd37e3c517d1</webElementGuid>
+      <webElementGuid>d682fd66-e5ab-400b-8537-b3da109a8fe6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='testId-search-wrapper']/div/div/input</value>
-      <webElementGuid>2b4edaae-1101-4323-8c2e-eef79c5a9f36</webElementGuid>
+      <webElementGuid>908619d1-545e-4789-be87-09ea0a3b9399</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>e7a665a4-61e7-4294-9d13-f19ed01a53a1</webElementGuid>
+      <webElementGuid>535ea833-99d4-4f2c-be66-f17cc1dc2222</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'testId-SearchBar-Input' and @type = 'text' and @placeholder = 'Buscar en falabella.com']</value>
-      <webElementGuid>70db3d8f-dc04-49c3-800b-ae43bc28e2b8</webElementGuid>
+      <webElementGuid>595bd31d-d461-45e2-a27b-7ed7f2312810</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
