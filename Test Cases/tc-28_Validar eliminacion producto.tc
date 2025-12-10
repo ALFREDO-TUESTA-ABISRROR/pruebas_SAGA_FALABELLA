@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-28_Validar eliminacion de un producto del carrito</name>
+   <name>tc-28_Validar eliminacion producto</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ce90d06f-017e-4b85-b3ab-b3229afe1af3</testCaseGuid>
+   <testCaseGuid>1ff9b5ee-70d5-4dc6-af5f-ba4bea0ebdf4</testCaseGuid>
 </TestCaseEntity>
