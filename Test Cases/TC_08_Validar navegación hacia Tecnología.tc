@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_08_Validar navegación hacia la categoría Tecnología</name>
+   <name>TC_08_Validar navegación hacia Tecnología</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>089bbbdc-a879-4b7f-a5a3-5350a79c44e8</testCaseGuid>
+   <testCaseGuid>27ae7558-c127-45d0-bdf0-5044761b3cb0</testCaseGuid>
 </TestCaseEntity>

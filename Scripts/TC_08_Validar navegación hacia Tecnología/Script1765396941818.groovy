@@ -21,11 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.falabella.com.pe/falabella-pe')
 
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/button_No, gracias-025-53c-f35'))
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/button_No, gracias-025-2df-7b5'))
 
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Men_MarketplaceHamburgerBtn-module_icon__r2oRR'))
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/span_Men_MarketplaceHamburgerBtn-module_lin_fa2b61'))
 
 WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/a_Tecnologa'))
 

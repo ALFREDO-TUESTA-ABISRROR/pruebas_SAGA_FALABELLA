@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aceptar_airship-html-prompt-shadow-ad 2025-2df</name>
+   <tag></tag>
+   <elementGuidId>3366631d-1bc9-4137-af70-331c30ac8dec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.airship-html-prompt-shadow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Airship ¿Quieres conocer las mejores ofertas? Que nadie te lo cuente. Suscríbete&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a74bdce-8349-4502-8176-83f4ccf6752a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>airship-html-prompt-shadow</value>
+      <webElementGuid>64acfb53-b353-4a69-8bb8-7841d580d324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;airship-html-prompt-shadow&quot;]</value>
+      <webElementGuid>56aa771f-9cf5-42d3-954b-2b4619bc53c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>9a5b7fb7-5e2b-47ed-a6dd-0df1050a2c50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
