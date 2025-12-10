@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>OK</name>
+   <name>TC-27_Validar visualizacion de producto</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>9d62c122-c441-4e77-a3d5-eadb4a6780e2</testCaseGuid>
+   <testCaseGuid>613263cd-38be-4224-a288-82915d9ee059</testCaseGuid>
 </TestCaseEntity>

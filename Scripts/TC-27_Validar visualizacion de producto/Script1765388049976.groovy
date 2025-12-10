@@ -23,5 +23,18 @@ WebUI.navigateToUrl('https://www.falabella.com.pe/falabella-pe')
 
 WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/button_No, gracias-025-b68-cce'))
 
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Men_MarketplaceHamburgerBtn-module_icon__r2oRR'))
+WebUI.setText(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/input_Search Bar_testId-SearchBar-Input'), 
+    'celular')
+
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/a_celulares baratos'))
+
+WebUI.click(findTestObject('Object Repository/Page_falabella.com/div_Aceptar_testId-close-cookies-btn'))
+
+WebUI.click(findTestObject('Object Repository/Page_falabella.com/div_SAMSUNGGalaxy A56 5g 256gb BlackPor Fal_fe2df3'))
+
+WebUI.click(findTestObject('Object Repository/Page_Galaxy A56 5g 256gb Black SAMSUNG  fal_0cd974/button_Agregar al Carro'))
+
+WebUI.click(findTestObject('Object Repository/Page_Galaxy A56 5g 256gb Black SAMSUNG  fal_0cd974/a_Ir al Carro'))
+
+WebUI.closeBrowser()
 
