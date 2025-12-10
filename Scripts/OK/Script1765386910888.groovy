@@ -21,21 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.falabella.com.pe/falabella-pe')
 
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/button_No, gracias-025-53c-f35'))
+WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/button_No, gracias-025-b68-cce'))
 
 WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/div_Men_MarketplaceHamburgerBtn-module_icon__r2oRR'))
-
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Falabella.com  Celebra la Navidad 2025/a_Celulares'))
-
-WebUI.click(findTestObject('Object Repository/Page_Celulares OFERTAS  falabella.com/div_Aceptar_testId-close-cookies-btn'))
-
-WebUI.click(findTestObject('Object Repository/Page_Celulares OFERTAS  falabella.com/div_APPLEIPhone 13 128GBPor Falabella'))
-
-WebUI.click(findTestObject('Object Repository/Page_iPhone 13 128GB APPLE  falabella.com/button_Agregar al Carro'))
-
-WebUI.click(findTestObject('Object Repository/Page_iPhone 13 128GB APPLE  falabella.com/a_Ir al Carro'))
-
-WebUI.closeBrowser()
 
